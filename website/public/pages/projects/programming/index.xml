@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Programming on Bullish Design</title>
-        <link>//localhost:1313/pages/projects/programming/</link>
+        <link>http://localhost:1313/pages/projects/programming/</link>
         <description>Recent content in Programming on Bullish Design</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en</language><atom:link href="//localhost:1313/pages/projects/programming/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en</language><atom:link href="http://localhost:1313/pages/projects/programming/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Programming</title>
-        <link>//localhost:1313/pages/projects/programming/programming/</link>
+        <link>http://localhost:1313/pages/projects/programming/programming/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/programming/programming/</guid>
+        <guid>http://localhost:1313/pages/projects/programming/programming/</guid>
         <description>&lt;h1 id=&#34;goal&#34;&gt;Goal:
 &lt;/h1&gt;&lt;p&gt;Streamlined understanding of how to code. Minimal overhead (only a few languages), maximum effectiveness.&lt;/p&gt;
 &lt;h1 id=&#34;languages&#34;&gt;Languages
 &lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;//localhost:1313/pages/projects/nixos_setup/nix/&#34; &gt;Nix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/nixos_setup/nix/&#34; &gt;Nix&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;python&#34;&gt;#Python
 &lt;/h2&gt;&lt;h2 id=&#34;web-development-with-devenv&#34;&gt;Web development with devenv:
@@ -28,10 +28,10 @@
         </item>
         <item>
         <title>Shell Scripting</title>
-        <link>//localhost:1313/pages/projects/programming/shell-scripting/</link>
+        <link>http://localhost:1313/pages/projects/programming/shell-scripting/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/programming/shell-scripting/</guid>
+        <guid>http://localhost:1313/pages/projects/programming/shell-scripting/</guid>
         <description>&lt;h1 id=&#34;what-is-it&#34;&gt;What is it?
 &lt;/h1&gt;&lt;p&gt;A shell is a program that runs a coding language (called bash) in the terminal. Bash is the same language used at the command line, shell scripting just allows you to chain longer commands together in one go. Multiple shell instances can be run in one terminal, allowing some amount of multitasking/background processing.&lt;/p&gt;
 &lt;p&gt;Think of it as more or less the native language the computer talks to itself in, allowing you to speak to it on its own language.&lt;/p&gt;

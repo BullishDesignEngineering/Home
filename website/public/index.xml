@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Home on Bullish Design</title>
-        <link>//localhost:1313/</link>
+        <link>http://localhost:1313/</link>
         <description>Recent content in Home on Bullish Design</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en</language><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
         <title></title>
-        <link>//localhost:1313/pages/projects/obsidian_manager/notes/</link>
+        <link>http://localhost:1313/pages/projects/obsidian_manager/notes/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/obsidian_manager/notes/</guid>
+        <guid>http://localhost:1313/pages/projects/obsidian_manager/notes/</guid>
         <description>&lt;h1 id=&#34;obsidian_manager&#34;&gt;Obsidian_Manager
 &lt;/h1&gt;&lt;h1 id=&#34;what&#34;&gt;What:
 &lt;/h1&gt;&lt;h1 id=&#34;why&#34;&gt;Why:
@@ -24,10 +24,10 @@
         </item>
         <item>
         <title></title>
-        <link>//localhost:1313/pages/projects/obsidian_manager/tasks/</link>
+        <link>http://localhost:1313/pages/projects/obsidian_manager/tasks/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/obsidian_manager/tasks/</guid>
+        <guid>http://localhost:1313/pages/projects/obsidian_manager/tasks/</guid>
         <description>&lt;h1 id=&#34;obsidian_manager_tasks&#34;&gt;Obsidian_Manager_Tasks
 &lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
 &lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
@@ -35,10 +35,10 @@
         </item>
         <item>
         <title></title>
-        <link>//localhost:1313/pages/projects/python_parser/notes/</link>
+        <link>http://localhost:1313/pages/projects/python_parser/notes/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/python_parser/notes/</guid>
+        <guid>http://localhost:1313/pages/projects/python_parser/notes/</guid>
         <description>&lt;h1 id=&#34;python_parser&#34;&gt;Python_Parser
 &lt;/h1&gt;&lt;h1 id=&#34;what&#34;&gt;What:
 &lt;/h1&gt;&lt;h1 id=&#34;why&#34;&gt;Why:
@@ -53,10 +53,10 @@
         </item>
         <item>
         <title></title>
-        <link>//localhost:1313/pages/projects/python_parser/tasks/</link>
+        <link>http://localhost:1313/pages/projects/python_parser/tasks/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/python_parser/tasks/</guid>
+        <guid>http://localhost:1313/pages/projects/python_parser/tasks/</guid>
         <description>&lt;h1 id=&#34;python_parser_tasks&#34;&gt;Python_Parser_Tasks
 &lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
 &lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
@@ -64,30 +64,31 @@
         </item>
         <item>
         <title>About</title>
-        <link>//localhost:1313/pages/about/</link>
+        <link>http://localhost:1313/pages/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/about/</guid>
+        <guid>http://localhost:1313/pages/about/</guid>
         <description>&lt;h1 id=&#34;about&#34;&gt;About
-&lt;/h1&gt;&lt;p&gt;This is the About Page&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;//localhost:1313/pages/projects/&#34; &gt;Projects&lt;/a&gt;&lt;/p&gt;
+&lt;/h1&gt;&lt;p&gt;This is the About Page.&lt;/p&gt;
+&lt;p&gt;Test change?&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/&#34; &gt;Projects&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Data Analysis</title>
-        <link>//localhost:1313/pages/data-analysis/</link>
+        <link>http://localhost:1313/pages/data-analysis/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/data-analysis/</guid>
+        <guid>http://localhost:1313/pages/data-analysis/</guid>
         <description>&lt;p&gt;Test?&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Devenv.sh</title>
-        <link>//localhost:1313/pages/projects/nixos_setup/devenv.sh/</link>
+        <link>http://localhost:1313/pages/projects/nixos_setup/devenv.sh/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/nixos_setup/devenv.sh/</guid>
+        <guid>http://localhost:1313/pages/projects/nixos_setup/devenv.sh/</guid>
         <description>&lt;h1 id=&#34;about&#34;&gt;About
 &lt;/h1&gt;&lt;p&gt;Using Devenv.sh to set up python development environments.&lt;/p&gt;
 &lt;h2 id=&#34;questions&#34;&gt;Questions:
@@ -109,36 +110,36 @@
         </item>
         <item>
         <title>Kitty</title>
-        <link>//localhost:1313/pages/projects/nixos_setup/kitty/</link>
+        <link>http://localhost:1313/pages/projects/nixos_setup/kitty/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/nixos_setup/kitty/</guid>
+        <guid>http://localhost:1313/pages/projects/nixos_setup/kitty/</guid>
         <description>&lt;h1 id=&#34;about&#34;&gt;About
 &lt;/h1&gt;&lt;p&gt;A terminal, supposed to be pretty good?&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Life</title>
-        <link>//localhost:1313/pages/life/</link>
+        <link>http://localhost:1313/pages/life/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/life/</guid>
-        <description>&lt;h1 id=&#34;projectshahahugoshortcode3s0hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;//localhost:1313/pages/projects/&#34; &gt;Projects&lt;/a&gt;
+        <guid>http://localhost:1313/pages/life/</guid>
+        <description>&lt;h1 id=&#34;projectshahahugoshortcode3s0hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/&#34; &gt;Projects&lt;/a&gt;
 &lt;/h1&gt;&lt;p&gt;Projects list&lt;/p&gt;
-&lt;h1 id=&#34;systemshahahugoshortcode3s1hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;//localhost:1313/pages/projects/systems/&#34; &gt;Systems&lt;/a&gt;
+&lt;h1 id=&#34;systemshahahugoshortcode3s1hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/systems/&#34; &gt;Systems&lt;/a&gt;
 &lt;/h1&gt;&lt;p&gt;Use &amp;ldquo;systems over goals&amp;rdquo; philosophy&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Neovi</title>
-        <link>//localhost:1313/pages/projects/nixos_setup/neovim/</link>
+        <link>http://localhost:1313/pages/projects/nixos_setup/neovim/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/nixos_setup/neovim/</guid>
+        <guid>http://localhost:1313/pages/projects/nixos_setup/neovim/</guid>
         <description>&lt;p&gt;#Programming , #IDE, #PDE&lt;/p&gt;
 &lt;h1 id=&#34;about&#34;&gt;About
 &lt;/h1&gt;&lt;p&gt;A text editor. Modular enough to turn into a full IDE.&lt;/p&gt;
-&lt;h1 id=&#34;pythonhahahugoshortcode34s0hbhb-ide-setup&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;//localhost:1313/pages/projects/nixos_setup/python/&#34; &gt;Python&lt;/a&gt; IDE Setup
+&lt;h1 id=&#34;pythonhahahugoshortcode28s0hbhb-ide-setup&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/nixos_setup/python/&#34; &gt;Python&lt;/a&gt; IDE Setup
 &lt;/h1&gt;&lt;p&gt;Reference Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.playfulpython.com/configuring-neovim-as-a-python-ide/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -306,20 +307,20 @@
         </item>
         <item>
         <title>Nix</title>
-        <link>//localhost:1313/pages/projects/nixos_setup/nix/</link>
+        <link>http://localhost:1313/pages/projects/nixos_setup/nix/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/nixos_setup/nix/</guid>
+        <guid>http://localhost:1313/pages/projects/nixos_setup/nix/</guid>
         <description>&lt;h1 id=&#34;about&#34;&gt;About
-&lt;/h1&gt;&lt;p&gt;Nix is the language, &lt;a class=&#34;link&#34; href=&#34;//localhost:1313/pages/projects/nixos_setup/nixos/&#34; &gt;NixOS&lt;/a&gt; is the operating system. The operating system uses the language for configuration.&lt;/p&gt;
+&lt;/h1&gt;&lt;p&gt;Nix is the language, &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/nixos_setup/nixos/&#34; &gt;NixOS&lt;/a&gt; is the operating system. The operating system uses the language for configuration.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>NixOS</title>
-        <link>//localhost:1313/pages/projects/nixos_setup/nixos/</link>
+        <link>http://localhost:1313/pages/projects/nixos_setup/nixos/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/nixos_setup/nixos/</guid>
+        <guid>http://localhost:1313/pages/projects/nixos_setup/nixos/</guid>
         <description>&lt;p&gt;#Topic, #Programming&lt;/p&gt;
 &lt;h1 id=&#34;setup&#34;&gt;Setup
 &lt;/h1&gt;&lt;h1 id=&#34;questions&#34;&gt;Questions
@@ -327,11 +328,11 @@
         </item>
         <item>
         <title>NixOS Setup</title>
-        <link>//localhost:1313/pages/projects/nixos_setup/nixos-setup/</link>
+        <link>http://localhost:1313/pages/projects/nixos_setup/nixos-setup/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/nixos_setup/nixos-setup/</guid>
-        <description>&lt;h1 id=&#34;nixoshahahugoshortcode39s0hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;//localhost:1313/pages/projects/nixos_setup/nixos/&#34; &gt;NixOS&lt;/a&gt;
+        <guid>http://localhost:1313/pages/projects/nixos_setup/nixos-setup/</guid>
+        <description>&lt;h1 id=&#34;nixoshahahugoshortcode31s0hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/nixos_setup/nixos/&#34; &gt;NixOS&lt;/a&gt;
 &lt;/h1&gt;&lt;p&gt;Notes and config files for a fresh NixOS install&lt;/p&gt;
 &lt;h1 id=&#34;notes&#34;&gt;Notes
 &lt;/h1&gt;&lt;h2 id=&#34;overall-goal&#34;&gt;Overall goal:
@@ -423,12 +424,12 @@ Questions:
 		- https://nixos-and-flakes.thiscute.world/nixos-with-flakes/modularize-the-configuration
 Questions:
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;kittyhahahugoshortcode39s1hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;//localhost:1313/pages/projects/nixos_setup/kitty/&#34; &gt;Kitty&lt;/a&gt;:
+&lt;h2 id=&#34;kittyhahahugoshortcode31s1hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/nixos_setup/kitty/&#34; &gt;Kitty&lt;/a&gt;:
 &lt;/h2&gt;&lt;p&gt;A terminal program. GPU does the heavy lifting, so it&amp;rsquo;s supposed to be nice and snappy.
 Resources:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;Questions:
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;tmuxhahahugoshortcode39s2hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;//localhost:1313/pages/projects/nixos_setup/tmux/&#34; &gt;Tmux&lt;/a&gt;:
+&lt;h2 id=&#34;tmuxhahahugoshortcode31s2hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/nixos_setup/tmux/&#34; &gt;Tmux&lt;/a&gt;:
 &lt;/h2&gt;&lt;pre&gt;&lt;code&gt;Resources:
 	https://github.com/novoid/nixos-config
 Questions:
@@ -444,7 +445,7 @@ ToDo:
 	7. Browser integration?
 	8. 
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;neovimhahahugoshortcode39s3hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;//localhost:1313/pages/projects/nixos_setup/neovim/&#34; &gt;Neovim&lt;/a&gt;:
+&lt;h2 id=&#34;neovimhahahugoshortcode31s3hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/nixos_setup/neovim/&#34; &gt;Neovim&lt;/a&gt;:
 &lt;/h2&gt;&lt;pre&gt;&lt;code&gt;Resources:
 	https://gist.github.com/nat-418/d76586da7a5d113ab90578ed56069509
 	https://gist.github.com/nat-418/493d40b807132d2643a7058188bff1ca
@@ -465,10 +466,10 @@ Todo:
         </item>
         <item>
         <title>Notes</title>
-        <link>//localhost:1313/pages/projects/auto_pde/notes/</link>
+        <link>http://localhost:1313/pages/projects/auto_pde/notes/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/auto_pde/notes/</guid>
+        <guid>http://localhost:1313/pages/projects/auto_pde/notes/</guid>
         <description>&lt;h1 id=&#34;auto_pde&#34;&gt;Auto_Pde
 &lt;/h1&gt;&lt;h1 id=&#34;what&#34;&gt;What:
 &lt;/h1&gt;&lt;p&gt;A completely streamlined product development environment. Starts off with a scaffold for a physical product (general dimensions/specs/requirements) that interoperates with CAD to create scaffolds of parts and assemblies. Updating the CAD updates the scaffold and vise versa.&lt;/p&gt;
@@ -650,10 +651,10 @@ Todo:
         </item>
         <item>
         <title>Notes</title>
-        <link>//localhost:1313/pages/projects/fantasy_football/notes/</link>
+        <link>http://localhost:1313/pages/projects/fantasy_football/notes/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/fantasy_football/notes/</guid>
+        <guid>http://localhost:1313/pages/projects/fantasy_football/notes/</guid>
         <description>&lt;h1 id=&#34;fantasy_football&#34;&gt;Fantasy_Football
 &lt;/h1&gt;&lt;h1 id=&#34;what&#34;&gt;What:
 &lt;/h1&gt;&lt;h1 id=&#34;why&#34;&gt;Why:
@@ -667,10 +668,10 @@ Todo:
         </item>
         <item>
         <title>Notes</title>
-        <link>//localhost:1313/pages/projects/ide/notes/</link>
+        <link>http://localhost:1313/pages/projects/ide/notes/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/ide/notes/</guid>
+        <guid>http://localhost:1313/pages/projects/ide/notes/</guid>
         <description>&lt;h1 id=&#34;ide&#34;&gt;IDE
 &lt;/h1&gt;&lt;h1 id=&#34;what&#34;&gt;What:
 &lt;/h1&gt;&lt;h1 id=&#34;why&#34;&gt;Why:
@@ -780,10 +781,10 @@ Todo:
         </item>
         <item>
         <title>Notes</title>
-        <link>//localhost:1313/pages/projects/llm_agents/notes/</link>
+        <link>http://localhost:1313/pages/projects/llm_agents/notes/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/llm_agents/notes/</guid>
+        <guid>http://localhost:1313/pages/projects/llm_agents/notes/</guid>
         <description>&lt;h1 id=&#34;llm_agents&#34;&gt;LLM_Agents
 &lt;/h1&gt;&lt;h1 id=&#34;what&#34;&gt;What:
 &lt;/h1&gt;&lt;h1 id=&#34;why&#34;&gt;Why:
@@ -797,10 +798,10 @@ Todo:
         </item>
         <item>
         <title>Notes</title>
-        <link>//localhost:1313/pages/projects/llmedia/notes/</link>
+        <link>http://localhost:1313/pages/projects/llmedia/notes/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/llmedia/notes/</guid>
+        <guid>http://localhost:1313/pages/projects/llmedia/notes/</guid>
         <description>&lt;h1 id=&#34;llmedia&#34;&gt;LLMedia
 &lt;/h1&gt;&lt;h1 id=&#34;what&#34;&gt;What:
 &lt;/h1&gt;&lt;p&gt;An LLM based media operation aiming to provide an easily digestible weekly (daily?) rundown of what people ought to know.&lt;/p&gt;
@@ -886,10 +887,10 @@ Todo:
         </item>
         <item>
         <title>Notes</title>
-        <link>//localhost:1313/pages/projects/miragram/notes/</link>
+        <link>http://localhost:1313/pages/projects/miragram/notes/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/miragram/notes/</guid>
+        <guid>http://localhost:1313/pages/projects/miragram/notes/</guid>
         <description>&lt;h1 id=&#34;miragram&#34;&gt;MiraGram
 &lt;/h1&gt;&lt;h1 id=&#34;what&#34;&gt;What:
 &lt;/h1&gt;&lt;p&gt;A library to handle LLM I/O and storing/retrieving from DB via the Mirascope library.&lt;/p&gt;
@@ -912,10 +913,10 @@ Todo:
         </item>
         <item>
         <title>Notes</title>
-        <link>//localhost:1313/pages/projects/notes_automation/notes/</link>
+        <link>http://localhost:1313/pages/projects/notes_automation/notes/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/notes_automation/notes/</guid>
+        <guid>http://localhost:1313/pages/projects/notes_automation/notes/</guid>
         <description>&lt;h1 id=&#34;notes_automation&#34;&gt;Notes_Automation
 &lt;/h1&gt;&lt;h1 id=&#34;what&#34;&gt;What:
 &lt;/h1&gt;&lt;p&gt;A streamlined llm-assisted project notes-&amp;gt; website/product page workflow.&lt;/p&gt;
@@ -961,10 +962,10 @@ Todo:
         </item>
         <item>
         <title>Notes</title>
-        <link>//localhost:1313/pages/projects/patent_analysis/notes/</link>
+        <link>http://localhost:1313/pages/projects/patent_analysis/notes/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/patent_analysis/notes/</guid>
+        <guid>http://localhost:1313/pages/projects/patent_analysis/notes/</guid>
         <description>&lt;h1 id=&#34;patent-analysis&#34;&gt;Patent Analysis
 &lt;/h1&gt;&lt;h1 id=&#34;what&#34;&gt;What:
 &lt;/h1&gt;&lt;p&gt;A python library to parse and analyze the historical USPTO database.&lt;/p&gt;
@@ -989,10 +990,10 @@ Todo:
         </item>
         <item>
         <title>Notes</title>
-        <link>//localhost:1313/pages/projects/python_toolbox/notes/</link>
+        <link>http://localhost:1313/pages/projects/python_toolbox/notes/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/python_toolbox/notes/</guid>
+        <guid>http://localhost:1313/pages/projects/python_toolbox/notes/</guid>
         <description>&lt;h1 id=&#34;python_toolbox&#34;&gt;Python_Toolbox
 &lt;/h1&gt;&lt;h1 id=&#34;what&#34;&gt;What:
 &lt;/h1&gt;&lt;h1 id=&#34;why&#34;&gt;Why:
@@ -1006,10 +1007,10 @@ Todo:
         </item>
         <item>
         <title>Notes</title>
-        <link>//localhost:1313/pages/projects/scripting/notes/</link>
+        <link>http://localhost:1313/pages/projects/scripting/notes/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/scripting/notes/</guid>
+        <guid>http://localhost:1313/pages/projects/scripting/notes/</guid>
         <description>&lt;h1 id=&#34;scripting&#34;&gt;Scripting
 &lt;/h1&gt;&lt;h1 id=&#34;what&#34;&gt;What:
 &lt;/h1&gt;&lt;h1 id=&#34;why&#34;&gt;Why:
@@ -1089,10 +1090,10 @@ Todo:
         </item>
         <item>
         <title>Notes</title>
-        <link>//localhost:1313/pages/projects/telegram_agent/notes/</link>
+        <link>http://localhost:1313/pages/projects/telegram_agent/notes/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/telegram_agent/notes/</guid>
+        <guid>http://localhost:1313/pages/projects/telegram_agent/notes/</guid>
         <description>&lt;h1 id=&#34;telegram_agent&#34;&gt;Telegram_Agent
 &lt;/h1&gt;&lt;h1 id=&#34;what&#34;&gt;What:
 &lt;/h1&gt;&lt;h1 id=&#34;why&#34;&gt;Why:
@@ -1106,10 +1107,10 @@ Todo:
         </item>
         <item>
         <title>Notes</title>
-        <link>//localhost:1313/pages/projects/tui_db/notes/</link>
+        <link>http://localhost:1313/pages/projects/tui_db/notes/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/tui_db/notes/</guid>
+        <guid>http://localhost:1313/pages/projects/tui_db/notes/</guid>
         <description>&lt;h1 id=&#34;tui_db&#34;&gt;TUI_DB
 &lt;/h1&gt;&lt;h1 id=&#34;what&#34;&gt;What:
 &lt;/h1&gt;&lt;h1 id=&#34;why&#34;&gt;Why:
@@ -1123,10 +1124,10 @@ Todo:
         </item>
         <item>
         <title>Notes</title>
-        <link>//localhost:1313/pages/projects/typeraider/notes/</link>
+        <link>http://localhost:1313/pages/projects/typeraider/notes/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/typeraider/notes/</guid>
+        <guid>http://localhost:1313/pages/projects/typeraider/notes/</guid>
         <description>&lt;h1 id=&#34;typeraider&#34;&gt;Typeraider
 &lt;/h1&gt;&lt;h1 id=&#34;what&#34;&gt;What:
 &lt;/h1&gt;&lt;h1 id=&#34;why&#34;&gt;Why:
@@ -1140,10 +1141,10 @@ Todo:
         </item>
         <item>
         <title>Notes</title>
-        <link>//localhost:1313/pages/projects/website/notes/</link>
+        <link>http://localhost:1313/pages/projects/website/notes/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/website/notes/</guid>
+        <guid>http://localhost:1313/pages/projects/website/notes/</guid>
         <description>&lt;h1 id=&#34;website&#34;&gt;Website
 &lt;/h1&gt;&lt;h1 id=&#34;what&#34;&gt;What:
 &lt;/h1&gt;&lt;h1 id=&#34;why&#34;&gt;Why:
@@ -1157,10 +1158,10 @@ Todo:
         </item>
         <item>
         <title>Obsidian</title>
-        <link>//localhost:1313/pages/projects/nixos_setup/obsidian/</link>
+        <link>http://localhost:1313/pages/projects/nixos_setup/obsidian/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/nixos_setup/obsidian/</guid>
+        <guid>http://localhost:1313/pages/projects/nixos_setup/obsidian/</guid>
         <description>&lt;h1 id=&#34;what-is-it&#34;&gt;What is it?
 &lt;/h1&gt;&lt;p&gt;Linked notes&lt;/p&gt;
 &lt;h1 id=&#34;why&#34;&gt;Why?
@@ -1214,15 +1215,15 @@ Todo:
         </item>
         <item>
         <title>Programming</title>
-        <link>//localhost:1313/pages/projects/programming/programming/</link>
+        <link>http://localhost:1313/pages/projects/programming/programming/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/programming/programming/</guid>
+        <guid>http://localhost:1313/pages/projects/programming/programming/</guid>
         <description>&lt;h1 id=&#34;goal&#34;&gt;Goal:
 &lt;/h1&gt;&lt;p&gt;Streamlined understanding of how to code. Minimal overhead (only a few languages), maximum effectiveness.&lt;/p&gt;
 &lt;h1 id=&#34;languages&#34;&gt;Languages
 &lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;//localhost:1313/pages/projects/nixos_setup/nix/&#34; &gt;Nix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/nixos_setup/nix/&#34; &gt;Nix&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;python&#34;&gt;#Python
 &lt;/h2&gt;&lt;h2 id=&#34;web-development-with-devenv&#34;&gt;Web development with devenv:
@@ -1235,10 +1236,10 @@ Todo:
         </item>
         <item>
         <title>Projects</title>
-        <link>//localhost:1313/pages/projects/projects/</link>
+        <link>http://localhost:1313/pages/projects/projects/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/projects/</guid>
+        <guid>http://localhost:1313/pages/projects/projects/</guid>
         <description>&lt;h1 id=&#34;programmingprojectsprogrammingprogrammingmd&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;Projects/Programming/Programming.md&#34; &gt;Programming&lt;/a&gt;
 &lt;/h1&gt;&lt;h2 id=&#34;nixosprojectsnixos_setupnixosmd&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;Projects/NixOS_Setup/NixOS.md&#34; &gt;NixOS&lt;/a&gt;
 &lt;/h2&gt;&lt;p&gt;Goal: Create a unified development environment that I can understand from the bottom up.&lt;/p&gt;
@@ -1260,10 +1261,10 @@ Types of data to work with:
         </item>
         <item>
         <title>Python</title>
-        <link>//localhost:1313/pages/projects/nixos_setup/python/</link>
+        <link>http://localhost:1313/pages/projects/nixos_setup/python/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/nixos_setup/python/</guid>
+        <guid>http://localhost:1313/pages/projects/nixos_setup/python/</guid>
         <description>&lt;h1 id=&#34;about&#34;&gt;About
 &lt;/h1&gt;&lt;p&gt;IDE Setup: &lt;a class=&#34;link&#34; href=&#34;obsidian://open?vault=Notes&amp;amp;file=Neovim&#34; &gt;Python IDE Setup&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#nixos-dev-environments&#34; &gt;#NixOS Dev Environments&lt;/a&gt;&lt;/p&gt;
@@ -1340,19 +1341,19 @@ Types of data to work with:
         </item>
         <item>
         <title>Random Shit</title>
-        <link>//localhost:1313/pages/random-shit/</link>
+        <link>http://localhost:1313/pages/random-shit/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/random-shit/</guid>
-        <description>&lt;h1 id=&#34;traveling-noteshahahugoshortcode4s0hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;//localhost:1313/pages/traveling-notes/&#34; &gt;Traveling Notes&lt;/a&gt;
+        <guid>http://localhost:1313/pages/random-shit/</guid>
+        <description>&lt;h1 id=&#34;traveling-noteshahahugoshortcode5s0hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/traveling-notes/&#34; &gt;Traveling Notes&lt;/a&gt;
 &lt;/h1&gt;</description>
         </item>
         <item>
         <title>Shell Scripting</title>
-        <link>//localhost:1313/pages/projects/programming/shell-scripting/</link>
+        <link>http://localhost:1313/pages/projects/programming/shell-scripting/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/programming/shell-scripting/</guid>
+        <guid>http://localhost:1313/pages/projects/programming/shell-scripting/</guid>
         <description>&lt;h1 id=&#34;what-is-it&#34;&gt;What is it?
 &lt;/h1&gt;&lt;p&gt;A shell is a program that runs a coding language (called bash) in the terminal. Bash is the same language used at the command line, shell scripting just allows you to chain longer commands together in one go. Multiple shell instances can be run in one terminal, allowing some amount of multitasking/background processing.&lt;/p&gt;
 &lt;p&gt;Think of it as more or less the native language the computer talks to itself in, allowing you to speak to it on its own language.&lt;/p&gt;
@@ -1537,16 +1538,16 @@ Types of data to work with:
         </item>
         <item>
         <title>Systems</title>
-        <link>//localhost:1313/pages/projects/systems/</link>
+        <link>http://localhost:1313/pages/projects/systems/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/systems/</guid>
+        <guid>http://localhost:1313/pages/projects/systems/</guid>
         <description>&lt;h1 id=&#34;computing-setup&#34;&gt;Computing Setup
 &lt;/h1&gt;&lt;p&gt;Declarative nixOS computing environment, with config files stored in git repository, able to be quickly installed on any system (wsl or linux) for a consistently productive environment.
 Bonus points for having something entirely accessible via plain-text interaction so can be accessed via a terminal (or terminal-like) interface from anywhere at any time (personal development server hosted at home or in the cloud?)&lt;/p&gt;
 &lt;h2 id=&#34;structure&#34;&gt;Structure
 &lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;//localhost:1313/pages/projects/nixos_setup/tmux/&#34; &gt;Tmux&lt;/a&gt; + &lt;a class=&#34;link&#34; href=&#34;//localhost:1313/pages/projects/nixos_setup/neovim/&#34; &gt;Neovim&lt;/a&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/nixos_setup/tmux/&#34; &gt;Tmux&lt;/a&gt; + &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/nixos_setup/neovim/&#34; &gt;Neovim&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Tmux handles organization of multiple neovim panes&lt;/p&gt;
@@ -1578,10 +1579,10 @@ Bonus points for having something entirely accessible via plain-text interaction
         </item>
         <item>
         <title>Tmux</title>
-        <link>//localhost:1313/pages/projects/nixos_setup/tmux/</link>
+        <link>http://localhost:1313/pages/projects/nixos_setup/tmux/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/nixos_setup/tmux/</guid>
+        <guid>http://localhost:1313/pages/projects/nixos_setup/tmux/</guid>
         <description>&lt;p&gt;#Programming&lt;/p&gt;
 &lt;h1 id=&#34;what-is-it&#34;&gt;What is it?
 &lt;/h1&gt;&lt;p&gt;A window switcher? Need to investigate and determine where/how this overlaps with the desktop itself.&lt;/p&gt;
@@ -1679,10 +1680,10 @@ Bonus points for having something entirely accessible via plain-text interaction
         </item>
         <item>
         <title>ToDo</title>
-        <link>//localhost:1313/pages/projects/auto_pde/tasks/</link>
+        <link>http://localhost:1313/pages/projects/auto_pde/tasks/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/auto_pde/tasks/</guid>
+        <guid>http://localhost:1313/pages/projects/auto_pde/tasks/</guid>
         <description>&lt;h1 id=&#34;auto_pde_tasks&#34;&gt;Auto_Pde_Tasks
 &lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
 &lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
@@ -1690,10 +1691,10 @@ Bonus points for having something entirely accessible via plain-text interaction
         </item>
         <item>
         <title>ToDo</title>
-        <link>//localhost:1313/pages/projects/fantasy_football/tasks/</link>
+        <link>http://localhost:1313/pages/projects/fantasy_football/tasks/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/fantasy_football/tasks/</guid>
+        <guid>http://localhost:1313/pages/projects/fantasy_football/tasks/</guid>
         <description>&lt;h1 id=&#34;fantasy_football_tasks&#34;&gt;Fantasy_Football_Tasks
 &lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
 &lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
@@ -1701,10 +1702,10 @@ Bonus points for having something entirely accessible via plain-text interaction
         </item>
         <item>
         <title>ToDo</title>
-        <link>//localhost:1313/pages/projects/ide/tasks/</link>
+        <link>http://localhost:1313/pages/projects/ide/tasks/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/ide/tasks/</guid>
+        <guid>http://localhost:1313/pages/projects/ide/tasks/</guid>
         <description>&lt;h1 id=&#34;ide_tasks&#34;&gt;IDE_Tasks
 &lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
 &lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
@@ -1712,10 +1713,10 @@ Bonus points for having something entirely accessible via plain-text interaction
         </item>
         <item>
         <title>ToDo</title>
-        <link>//localhost:1313/pages/projects/llm_agents/tasks/</link>
+        <link>http://localhost:1313/pages/projects/llm_agents/tasks/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/llm_agents/tasks/</guid>
+        <guid>http://localhost:1313/pages/projects/llm_agents/tasks/</guid>
         <description>&lt;h1 id=&#34;llm_agents_tasks&#34;&gt;LLM_Agents_Tasks
 &lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
 &lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
@@ -1723,10 +1724,10 @@ Bonus points for having something entirely accessible via plain-text interaction
         </item>
         <item>
         <title>ToDo</title>
-        <link>//localhost:1313/pages/projects/llmedia/tasks/</link>
+        <link>http://localhost:1313/pages/projects/llmedia/tasks/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/llmedia/tasks/</guid>
+        <guid>http://localhost:1313/pages/projects/llmedia/tasks/</guid>
         <description>&lt;h1 id=&#34;llmedia_tasks&#34;&gt;LLMedia_Tasks
 &lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
 &lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
@@ -1734,10 +1735,10 @@ Bonus points for having something entirely accessible via plain-text interaction
         </item>
         <item>
         <title>ToDo</title>
-        <link>//localhost:1313/pages/projects/miragram/tasks/</link>
+        <link>http://localhost:1313/pages/projects/miragram/tasks/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/miragram/tasks/</guid>
+        <guid>http://localhost:1313/pages/projects/miragram/tasks/</guid>
         <description>&lt;h1 id=&#34;miragram_tasks&#34;&gt;MiraGram_Tasks
 &lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
 &lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
@@ -1745,10 +1746,10 @@ Bonus points for having something entirely accessible via plain-text interaction
         </item>
         <item>
         <title>ToDo</title>
-        <link>//localhost:1313/pages/projects/notes_automation/tasks/</link>
+        <link>http://localhost:1313/pages/projects/notes_automation/tasks/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/notes_automation/tasks/</guid>
+        <guid>http://localhost:1313/pages/projects/notes_automation/tasks/</guid>
         <description>&lt;h1 id=&#34;notes_automation_tasks&#34;&gt;Notes_Automation_Tasks
 &lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
 &lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
@@ -1756,10 +1757,10 @@ Bonus points for having something entirely accessible via plain-text interaction
         </item>
         <item>
         <title>ToDo</title>
-        <link>//localhost:1313/pages/projects/patent_analysis/tasks/</link>
+        <link>http://localhost:1313/pages/projects/patent_analysis/tasks/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/patent_analysis/tasks/</guid>
+        <guid>http://localhost:1313/pages/projects/patent_analysis/tasks/</guid>
         <description>&lt;h1 id=&#34;tasks&#34;&gt;Tasks
 &lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
 &lt;/h1&gt;&lt;h1 id=&#34;tasks-1&#34;&gt;Tasks:
@@ -1767,10 +1768,10 @@ Bonus points for having something entirely accessible via plain-text interaction
         </item>
         <item>
         <title>ToDo</title>
-        <link>//localhost:1313/pages/projects/python_toolbox/tasks/</link>
+        <link>http://localhost:1313/pages/projects/python_toolbox/tasks/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/python_toolbox/tasks/</guid>
+        <guid>http://localhost:1313/pages/projects/python_toolbox/tasks/</guid>
         <description>&lt;h1 id=&#34;python_toolbox_tasks&#34;&gt;Python_Toolbox_Tasks
 &lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
 &lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
@@ -1778,10 +1779,10 @@ Bonus points for having something entirely accessible via plain-text interaction
         </item>
         <item>
         <title>ToDo</title>
-        <link>//localhost:1313/pages/projects/scripting/tasks/</link>
+        <link>http://localhost:1313/pages/projects/scripting/tasks/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/scripting/tasks/</guid>
+        <guid>http://localhost:1313/pages/projects/scripting/tasks/</guid>
         <description>&lt;h1 id=&#34;scripting_tasks&#34;&gt;Scripting_Tasks
 &lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
 &lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
@@ -1792,10 +1793,10 @@ Bonus points for having something entirely accessible via plain-text interaction
         </item>
         <item>
         <title>ToDo</title>
-        <link>//localhost:1313/pages/projects/telegram_agent/tasks/</link>
+        <link>http://localhost:1313/pages/projects/telegram_agent/tasks/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/telegram_agent/tasks/</guid>
+        <guid>http://localhost:1313/pages/projects/telegram_agent/tasks/</guid>
         <description>&lt;h1 id=&#34;telegram_agent_tasks&#34;&gt;Telegram_Agent_Tasks
 &lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
 &lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
@@ -1803,10 +1804,10 @@ Bonus points for having something entirely accessible via plain-text interaction
         </item>
         <item>
         <title>ToDo</title>
-        <link>//localhost:1313/pages/projects/tui_db/tasks/</link>
+        <link>http://localhost:1313/pages/projects/tui_db/tasks/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/tui_db/tasks/</guid>
+        <guid>http://localhost:1313/pages/projects/tui_db/tasks/</guid>
         <description>&lt;h1 id=&#34;tui_db_tasks&#34;&gt;TUI_DB_Tasks
 &lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
 &lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
@@ -1814,10 +1815,10 @@ Bonus points for having something entirely accessible via plain-text interaction
         </item>
         <item>
         <title>ToDo</title>
-        <link>//localhost:1313/pages/projects/typeraider/tasks/</link>
+        <link>http://localhost:1313/pages/projects/typeraider/tasks/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/typeraider/tasks/</guid>
+        <guid>http://localhost:1313/pages/projects/typeraider/tasks/</guid>
         <description>&lt;h1 id=&#34;typeraider_tasks&#34;&gt;Typeraider_Tasks
 &lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
 &lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
@@ -1825,10 +1826,10 @@ Bonus points for having something entirely accessible via plain-text interaction
         </item>
         <item>
         <title>ToDo</title>
-        <link>//localhost:1313/pages/projects/website/tasks/</link>
+        <link>http://localhost:1313/pages/projects/website/tasks/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/website/tasks/</guid>
+        <guid>http://localhost:1313/pages/projects/website/tasks/</guid>
         <description>&lt;h1 id=&#34;website_tasks&#34;&gt;Website_Tasks
 &lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
 &lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
@@ -1836,10 +1837,10 @@ Bonus points for having something entirely accessible via plain-text interaction
         </item>
         <item>
         <title>Traveling Notes</title>
-        <link>//localhost:1313/pages/traveling-notes/</link>
+        <link>http://localhost:1313/pages/traveling-notes/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/traveling-notes/</guid>
+        <guid>http://localhost:1313/pages/traveling-notes/</guid>
         <description>&lt;h1 id=&#34;travel&#34;&gt;Travel:
 &lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;Lyft Driver Podcast - Whats in your dirt?

@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Nixos_Setup on Bullish Design</title>
-        <link>//localhost:1313/pages/projects/nixos_setup/</link>
+        <link>http://localhost:1313/pages/projects/nixos_setup/</link>
         <description>Recent content in Nixos_Setup on Bullish Design</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en</language><atom:link href="//localhost:1313/pages/projects/nixos_setup/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en</language><atom:link href="http://localhost:1313/pages/projects/nixos_setup/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Devenv.sh</title>
-        <link>//localhost:1313/pages/projects/nixos_setup/devenv.sh/</link>
+        <link>http://localhost:1313/pages/projects/nixos_setup/devenv.sh/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/nixos_setup/devenv.sh/</guid>
+        <guid>http://localhost:1313/pages/projects/nixos_setup/devenv.sh/</guid>
         <description>&lt;h1 id=&#34;about&#34;&gt;About
 &lt;/h1&gt;&lt;p&gt;Using Devenv.sh to set up python development environments.&lt;/p&gt;
 &lt;h2 id=&#34;questions&#34;&gt;Questions:
@@ -32,24 +32,24 @@
         </item>
         <item>
         <title>Kitty</title>
-        <link>//localhost:1313/pages/projects/nixos_setup/kitty/</link>
+        <link>http://localhost:1313/pages/projects/nixos_setup/kitty/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/nixos_setup/kitty/</guid>
+        <guid>http://localhost:1313/pages/projects/nixos_setup/kitty/</guid>
         <description>&lt;h1 id=&#34;about&#34;&gt;About
 &lt;/h1&gt;&lt;p&gt;A terminal, supposed to be pretty good?&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Neovi</title>
-        <link>//localhost:1313/pages/projects/nixos_setup/neovim/</link>
+        <link>http://localhost:1313/pages/projects/nixos_setup/neovim/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/nixos_setup/neovim/</guid>
+        <guid>http://localhost:1313/pages/projects/nixos_setup/neovim/</guid>
         <description>&lt;p&gt;#Programming , #IDE, #PDE&lt;/p&gt;
 &lt;h1 id=&#34;about&#34;&gt;About
 &lt;/h1&gt;&lt;p&gt;A text editor. Modular enough to turn into a full IDE.&lt;/p&gt;
-&lt;h1 id=&#34;pythonhahahugoshortcode34s0hbhb-ide-setup&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;//localhost:1313/pages/projects/nixos_setup/python/&#34; &gt;Python&lt;/a&gt; IDE Setup
+&lt;h1 id=&#34;pythonhahahugoshortcode28s0hbhb-ide-setup&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/nixos_setup/python/&#34; &gt;Python&lt;/a&gt; IDE Setup
 &lt;/h1&gt;&lt;p&gt;Reference Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.playfulpython.com/configuring-neovim-as-a-python-ide/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -217,20 +217,20 @@
         </item>
         <item>
         <title>Nix</title>
-        <link>//localhost:1313/pages/projects/nixos_setup/nix/</link>
+        <link>http://localhost:1313/pages/projects/nixos_setup/nix/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/nixos_setup/nix/</guid>
+        <guid>http://localhost:1313/pages/projects/nixos_setup/nix/</guid>
         <description>&lt;h1 id=&#34;about&#34;&gt;About
-&lt;/h1&gt;&lt;p&gt;Nix is the language, &lt;a class=&#34;link&#34; href=&#34;//localhost:1313/pages/projects/nixos_setup/nixos/&#34; &gt;NixOS&lt;/a&gt; is the operating system. The operating system uses the language for configuration.&lt;/p&gt;
+&lt;/h1&gt;&lt;p&gt;Nix is the language, &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/nixos_setup/nixos/&#34; &gt;NixOS&lt;/a&gt; is the operating system. The operating system uses the language for configuration.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>NixOS</title>
-        <link>//localhost:1313/pages/projects/nixos_setup/nixos/</link>
+        <link>http://localhost:1313/pages/projects/nixos_setup/nixos/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/nixos_setup/nixos/</guid>
+        <guid>http://localhost:1313/pages/projects/nixos_setup/nixos/</guid>
         <description>&lt;p&gt;#Topic, #Programming&lt;/p&gt;
 &lt;h1 id=&#34;setup&#34;&gt;Setup
 &lt;/h1&gt;&lt;h1 id=&#34;questions&#34;&gt;Questions
@@ -238,11 +238,11 @@
         </item>
         <item>
         <title>NixOS Setup</title>
-        <link>//localhost:1313/pages/projects/nixos_setup/nixos-setup/</link>
+        <link>http://localhost:1313/pages/projects/nixos_setup/nixos-setup/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/nixos_setup/nixos-setup/</guid>
-        <description>&lt;h1 id=&#34;nixoshahahugoshortcode39s0hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;//localhost:1313/pages/projects/nixos_setup/nixos/&#34; &gt;NixOS&lt;/a&gt;
+        <guid>http://localhost:1313/pages/projects/nixos_setup/nixos-setup/</guid>
+        <description>&lt;h1 id=&#34;nixoshahahugoshortcode31s0hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/nixos_setup/nixos/&#34; &gt;NixOS&lt;/a&gt;
 &lt;/h1&gt;&lt;p&gt;Notes and config files for a fresh NixOS install&lt;/p&gt;
 &lt;h1 id=&#34;notes&#34;&gt;Notes
 &lt;/h1&gt;&lt;h2 id=&#34;overall-goal&#34;&gt;Overall goal:
@@ -334,12 +334,12 @@ Questions:
 		- https://nixos-and-flakes.thiscute.world/nixos-with-flakes/modularize-the-configuration
 Questions:
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;kittyhahahugoshortcode39s1hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;//localhost:1313/pages/projects/nixos_setup/kitty/&#34; &gt;Kitty&lt;/a&gt;:
+&lt;h2 id=&#34;kittyhahahugoshortcode31s1hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/nixos_setup/kitty/&#34; &gt;Kitty&lt;/a&gt;:
 &lt;/h2&gt;&lt;p&gt;A terminal program. GPU does the heavy lifting, so it&amp;rsquo;s supposed to be nice and snappy.
 Resources:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;Questions:
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;tmuxhahahugoshortcode39s2hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;//localhost:1313/pages/projects/nixos_setup/tmux/&#34; &gt;Tmux&lt;/a&gt;:
+&lt;h2 id=&#34;tmuxhahahugoshortcode31s2hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/nixos_setup/tmux/&#34; &gt;Tmux&lt;/a&gt;:
 &lt;/h2&gt;&lt;pre&gt;&lt;code&gt;Resources:
 	https://github.com/novoid/nixos-config
 Questions:
@@ -355,7 +355,7 @@ ToDo:
 	7. Browser integration?
 	8. 
 &lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;neovimhahahugoshortcode39s3hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;//localhost:1313/pages/projects/nixos_setup/neovim/&#34; &gt;Neovim&lt;/a&gt;:
+&lt;h2 id=&#34;neovimhahahugoshortcode31s3hbhb&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/nixos_setup/neovim/&#34; &gt;Neovim&lt;/a&gt;:
 &lt;/h2&gt;&lt;pre&gt;&lt;code&gt;Resources:
 	https://gist.github.com/nat-418/d76586da7a5d113ab90578ed56069509
 	https://gist.github.com/nat-418/493d40b807132d2643a7058188bff1ca
@@ -376,10 +376,10 @@ Todo:
         </item>
         <item>
         <title>Obsidian</title>
-        <link>//localhost:1313/pages/projects/nixos_setup/obsidian/</link>
+        <link>http://localhost:1313/pages/projects/nixos_setup/obsidian/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/nixos_setup/obsidian/</guid>
+        <guid>http://localhost:1313/pages/projects/nixos_setup/obsidian/</guid>
         <description>&lt;h1 id=&#34;what-is-it&#34;&gt;What is it?
 &lt;/h1&gt;&lt;p&gt;Linked notes&lt;/p&gt;
 &lt;h1 id=&#34;why&#34;&gt;Why?
@@ -433,10 +433,10 @@ Todo:
         </item>
         <item>
         <title>Python</title>
-        <link>//localhost:1313/pages/projects/nixos_setup/python/</link>
+        <link>http://localhost:1313/pages/projects/nixos_setup/python/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/nixos_setup/python/</guid>
+        <guid>http://localhost:1313/pages/projects/nixos_setup/python/</guid>
         <description>&lt;h1 id=&#34;about&#34;&gt;About
 &lt;/h1&gt;&lt;p&gt;IDE Setup: &lt;a class=&#34;link&#34; href=&#34;obsidian://open?vault=Notes&amp;amp;file=Neovim&#34; &gt;Python IDE Setup&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;#nixos-dev-environments&#34; &gt;#NixOS Dev Environments&lt;/a&gt;&lt;/p&gt;
@@ -513,10 +513,10 @@ Todo:
         </item>
         <item>
         <title>Tmux</title>
-        <link>//localhost:1313/pages/projects/nixos_setup/tmux/</link>
+        <link>http://localhost:1313/pages/projects/nixos_setup/tmux/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:1313/pages/projects/nixos_setup/tmux/</guid>
+        <guid>http://localhost:1313/pages/projects/nixos_setup/tmux/</guid>
         <description>&lt;p&gt;#Programming&lt;/p&gt;
 &lt;h1 id=&#34;what-is-it&#34;&gt;What is it?
 &lt;/h1&gt;&lt;p&gt;A window switcher? Need to investigate and determine where/how this overlaps with the desktop itself.&lt;/p&gt;
