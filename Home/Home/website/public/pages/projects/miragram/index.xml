@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Miragram on Bullish Design</title>
+        <link>//localhost:1313/pages/projects/miragram/</link>
+        <description>Recent content in Miragram on Bullish Design</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language><atom:link href="//localhost:1313/pages/projects/miragram/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Notes</title>
+        <link>//localhost:1313/pages/projects/miragram/notes/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/pages/projects/miragram/notes/</guid>
+        <description>&lt;h1 id=&#34;miragram&#34;&gt;MiraGram
+&lt;/h1&gt;&lt;h1 id=&#34;what&#34;&gt;What:
+&lt;/h1&gt;&lt;p&gt;A library to handle LLM I/O and storing/retrieving from DB via the Mirascope library.&lt;/p&gt;
+&lt;h1 id=&#34;why&#34;&gt;Why:
+&lt;/h1&gt;&lt;p&gt;Use in other projects for streamlined LLM calling functionality.&lt;/p&gt;
+&lt;h1 id=&#34;goals&#34;&gt;Goals:
+&lt;/h1&gt;&lt;h1 id=&#34;my-questions&#34;&gt;My Questions:
+&lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;LLM Call Handling&lt;/li&gt;
+&lt;li&gt;LLM Response Handling&lt;/li&gt;
+&lt;li&gt;LLM Call Storing&lt;/li&gt;
+&lt;li&gt;LLM Response Storing&lt;/li&gt;
+&lt;li&gt;LLM Function Handling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;resources&#34;&gt;Resources:
+&lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
+&lt;/h1&gt;&lt;h1 id=&#34;log&#34;&gt;Log:
+&lt;/h1&gt;</description>
+        </item>
+        <item>
+        <title>ToDo</title>
+        <link>//localhost:1313/pages/projects/miragram/tasks/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/pages/projects/miragram/tasks/</guid>
+        <description>&lt;h1 id=&#34;miragram_tasks&#34;&gt;MiraGram_Tasks
+&lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
+&lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
+&lt;/h1&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
