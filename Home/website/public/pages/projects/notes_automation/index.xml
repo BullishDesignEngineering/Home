@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Notes_Automation on Bullish Design</title>
+        <link>//localhost:1313/pages/projects/notes_automation/</link>
+        <description>Recent content in Notes_Automation on Bullish Design</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language><atom:link href="//localhost:1313/pages/projects/notes_automation/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Notes</title>
+        <link>//localhost:1313/pages/projects/notes_automation/notes/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/pages/projects/notes_automation/notes/</guid>
+        <description>&lt;h1 id=&#34;notes_automation&#34;&gt;Notes_Automation
+&lt;/h1&gt;&lt;h1 id=&#34;what&#34;&gt;What:
+&lt;/h1&gt;&lt;p&gt;A streamlined llm-assisted project notes-&amp;gt; website/product page workflow.&lt;/p&gt;
+&lt;h1 id=&#34;why&#34;&gt;Why:
+&lt;/h1&gt;&lt;p&gt;Aiming to prevent re-work, by having my freeform thoughts and research notes automatically utilized and cleaned up into a more polished final product and posted to the web as a project portfolio.&lt;/p&gt;
+&lt;h1 id=&#34;goals&#34;&gt;Goals:
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Local Obsidian -&amp;gt; Github
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Filewatcher to monitor changes and trigger workflows
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Use Watchdog library&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Have timer to wait for no changes in X seconds before triggering workflow&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Copy notes to repo
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; TODO: Diff between local notes and repo files?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Create new commit&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Add Commit Message
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Summarize changes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Github Repo -&amp;gt; GH Pages
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Only post based on frontmatter metadata&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Have &amp;ldquo;working&amp;rdquo; and &amp;ldquo;final&amp;rdquo; draft settings as well&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; GH Pages -&amp;gt; Custom domain&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;my-questions&#34;&gt;My Questions:
+&lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
+&lt;/h1&gt;&lt;h1 id=&#34;resources&#34;&gt;Resources:
+&lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
+&lt;/h1&gt;&lt;h1 id=&#34;log&#34;&gt;Log:
+&lt;/h1&gt;</description>
+        </item>
+        <item>
+        <title>ToDo</title>
+        <link>//localhost:1313/pages/projects/notes_automation/tasks/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/pages/projects/notes_automation/tasks/</guid>
+        <description>&lt;h1 id=&#34;notes_automation_tasks&#34;&gt;Notes_Automation_Tasks
+&lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
+&lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
+&lt;/h1&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

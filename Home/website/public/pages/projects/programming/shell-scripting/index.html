@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="What is it? A shell is a program that runs a coding language (called bash) in the terminal. Bash is the same language used at the command line, shell scripting just allows you to chain longer commands together in one go. Multiple shell instances can be run in one terminal, allowing some amount of multitasking/background processing.\nThink of it as more or less the native language the computer talks to itself in, allowing you to speak to it on its own language.\n">
+<title>Shell Scripting</title>
+
+<link rel='canonical' href='//localhost:1313/pages/projects/programming/shell-scripting/'>
+
+<link rel="stylesheet" href="/scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css"><meta property='og:title' content="Shell Scripting">
+<meta property='og:description' content="What is it? A shell is a program that runs a coding language (called bash) in the terminal. Bash is the same language used at the command line, shell scripting just allows you to chain longer commands together in one go. Multiple shell instances can be run in one terminal, allowing some amount of multitasking/background processing.\nThink of it as more or less the native language the computer talks to itself in, allowing you to speak to it on its own language.\n">
+<meta property='og:url' content='//localhost:1313/pages/projects/programming/shell-scripting/'>
+<meta property='og:site_name' content='Bullish Design'>
+<meta property='og:type' content='article'><meta property='article:section' content='Pages' />
+<meta name="twitter:title" content="Shell Scripting">
+<meta name="twitter:description" content="What is it? A shell is a program that runs a coding language (called bash) in the terminal. Bash is the same language used at the command line, shell scripting just allows you to chain longer commands together in one go. Multiple shell instances can be run in one terminal, allowing some amount of multitasking/background processing.\nThink of it as more or less the native language the computer talks to itself in, allowing you to speak to it on its own language.\n">
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column compact"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu13739649187745961479.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="//localhost:1313/">Bullish Design</a></h1>
+            <h2 class="site-description"></h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/pages/about' >
+                
+                
+                
+                <span>About</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/showcase' >
+                
+                
+                
+                <span>Showcase</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Dark Mode</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="main-article">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/pages/projects/programming/shell-scripting/">Shell Scripting</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    5 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <h1 id="what-is-it">What is it?
+</h1><p>A shell is a program that runs a coding language (called bash) in the terminal. Bash is the same language used at the command line, shell scripting just allows you to chain longer commands together in one go. Multiple shell instances can be run in one terminal, allowing some amount of multitasking/background processing.</p>
+<p>Think of it as more or less the native language the computer talks to itself in, allowing you to speak to it on its own language.</p>
+<h1 id="why-learn-it">Why learn it?
+</h1><p>Super handy to perform general functionality of the computer itself - most (all?) functionality of the GUI is just performing shell scripts under the hood, so why not learn what its actually doing?</p>
+<h1 id="my-questions">My Questions:
+</h1><ol>
+<li>Is bash actually the same language as what&rsquo;s being used in the command line?</li>
+<li>Is there a more modular way to import shell scripts into home.nix?
+<ol>
+<li>Maybe call out to a folder that reads each shell script saved there?</li>
+<li>Or just a single call to a library folder that does the rest?</li>
+</ol>
+</li>
+<li>Does an imported .sh file need to be made executable first to import a function?
+<ol>
+<li>Nope. See &ldquo;imported&rdquo;</li>
+</ol>
+</li>
+</ol>
+<h1 id="goals">Goals:
+</h1><ol>
+<li>Have a personal library of shell scripts (that ideally plays well with NixOS) to make life easier/quicker</li>
+<li>Use to streamline/standardize daily functionality to reduce overhead and make work/life more efficient and effective.</li>
+<li></li>
+</ol>
+<h1 id="tasks">Tasks:
+</h1><ol>
+<li><input checked="" disabled="" type="checkbox"> Figure out how to import from one shell script into another.</li>
+<li><input disabled="" type="checkbox"> Create daily notes file
+<ol>
+<li><input checked="" disabled="" type="checkbox"> Using the obsidian plugin?</li>
+</ol>
+</li>
+<li><input disabled="" type="checkbox"> Create &ldquo;Main&rdquo; startup page
+<ol>
+<li><input disabled="" type="checkbox"> Create list of all project folders via script</li>
+<li><input disabled="" type="checkbox"> Add list of all projects to main startup page</li>
+<li><input disabled="" type="checkbox"> Auto-create a daily notes page
+<ol>
+<li><input disabled="" type="checkbox"> Choosing project &ldquo;ToDos&rdquo; for the day loads the project in the background in a Tmux buffer</li>
+<li><input disabled="" type="checkbox"> Autogens the daily note, populates with the ToDo item in question</li>
+</ol>
+</li>
+<li><input disabled="" type="checkbox"> </li>
+</ol>
+</li>
+</ol>
+<h1 id="resources">Resources:
+</h1><ul>
+<li><a class="link" href="https://en.wikipedia.org/wiki/Chmod"  target="_blank" rel="noopener"
+    >https://en.wikipedia.org/wiki/Chmod</a></li>
+<li><a class="link" href="https://stackoverflow.com/questions/192292/how-best-to-include-other-scripts"  target="_blank" rel="noopener"
+    >https://stackoverflow.com/questions/192292/how-best-to-include-other-scripts</a></li>
+<li><a class="link" href="https://stackoverflow.com/questions/10823635/how-to-include-file-in-a-bash-shell-script"  target="_blank" rel="noopener"
+    >https://stackoverflow.com/questions/10823635/how-to-include-file-in-a-bash-shell-script</a></li>
+<li></li>
+</ul>
+<h1 id="shell-library-outline">Shell Library Outline:
+</h1><p>General idea - make it easy to perform various automated tasks. Start with project initialization, add on from there. So, using subheadings as buckets, it&rsquo;ll need:</p>
+<h2 id="time">Time:
+</h2><ul>
+<li>Date
+<ul>
+<li>Calendar</li>
+<li>Week number, day number</li>
+</ul>
+</li>
+<li>Time</li>
+<li>Time elapsed</li>
+</ul>
+<h2 id="filesdirectories">Files/Directories:
+</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> Create directory</li>
+<li><input checked="" disabled="" type="checkbox"> Create file</li>
+<li><input checked="" disabled="" type="checkbox"> Get names
+<ul>
+<li><input checked="" disabled="" type="checkbox"> Files</li>
+<li><input checked="" disabled="" type="checkbox"> Directories</li>
+</ul>
+</li>
+</ul>
+<h2 id="text">Text:
+</h2><ul>
+<li>Find text</li>
+<li>Compare text</li>
+<li>Insert Text</li>
+<li>Append text</li>
+</ul>
+<h2 id="scripting">Scripting
+</h2><ul>
+<li><input checked="" disabled="" type="checkbox"> Add script to NixOS</li>
+<li><input disabled="" type="checkbox"> Github repo initialization</li>
+<li><input disabled="" type="checkbox"> Github Project repo initialization</li>
+</ul>
+<h1 id="notes">Notes:
+</h1><p>General notes as things go, not yet organized</p>
+<h2 id="how-to-make-a-shell-script">How to make a shell script:
+</h2><ol>
+<li>Write bash code that would work in the command line, save to a &ldquo;.sh&rdquo; file extension</li>
+<li>First line must be &ldquo;#!/bin/bash&rdquo; (if making a script to call by filename, see below for NixOS version)
+<ol>
+<li>&ldquo;#!&rdquo; means this is executable, the rest just tells shell (remember that its a program, so it needs a hint) that it should run as a bash script</li>
+</ol>
+</li>
+<li>in the command line, tell your computer that its executable, not just a regular old file:
+<ol>
+<li>Run &ldquo;chmod +x filename&rdquo;
+<ol>
+<li>chmod = change mode</li>
+<li>+x = Add executable mode to the file (so it can be run)</li>
+<li>filename = path to the file just written. (Can also add multiple files at once)</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<h2 id="how-to-make-a-nixos-shell-script">How to make a NixOS shell script
+</h2><p>The above way still works if you want to call something by filename. But, if you want to call it by it&rsquo;s own command shortcut, you need to tell NixOS about it. So:</p>
+<ol>
+<li>Same step one as above - write your script</li>
+<li>Add to home.nix as a package:
+<ol>
+<li>(writeShellScriptBin &ldquo;command-name&rdquo; (builtings.readFile filepath))
+<ol>
+<li>writeShellScriptBin = NixOS command to take the script and add it to the list of commands that can be run</li>
+<li>command-name = the shortcut you want to be able to call it with</li>
+<li>builtins.readFile = NixOS command to read the script file you just wrote</li>
+<li>filepath = the file you just write</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<h2 id="importingcalling-shell-scripts">Importing/calling shell scripts:
+</h2><p>Important - there are different ways to call a script from another script. One executes it in the current shell environment, the other calls it in a sub-shell. Calling it in a sub-shell means its a clean slate. No access to any variables previously created in the first shell instance. This can be handy to just get a simple result back without having to worry about leftover/overwritten variables.</p>
+<h2 id="importing-shell-functions">Importing shell functions:
+</h2><p>Just import with &ldquo;source filename.sh&rdquo;. Basically treats everything in that other script as though it&rsquo;s lines are inserted at that point.</p>
+<p>Don&rsquo;t need the &ldquo;#! bin/bash&rdquo; for the first line, you can just go with code from the get-go</p>
+<h2 id="adding-script-to-nixos">Adding script to NixOS:
+</h2><p>Attempt 1: Attempted to import scripts from an external nix file as text using builtins.readFile. Failed due to &ldquo;not being a package&rdquo;</p>
+<ul>
+<li>A definition for option &rsquo;&rsquo; is not of type &lsquo;package&rsquo;.</li>
+</ul>
+<p>Attempt 2: Just write a script that adds text directly to the home.nix file.</p>
+<ul>
+<li><input checked="" disabled="" type="checkbox"> Strip first chunk</li>
+<li><input checked="" disabled="" type="checkbox"> For each script in a script directory:
+<ul>
+<li><input checked="" disabled="" type="checkbox"> Copy script to dotfiles script directory</li>
+<li><input checked="" disabled="" type="checkbox"> Create script</li>
+</ul>
+</li>
+</ul>
+<h2 id="script-date">Script Date:
+</h2><p>Built-in day of week and week of year functions exist. Need to confirm how they work around the start of the year?</p>
+<h2 id="new-project-script">New Project Script:
+</h2><ul>
+<li><input disabled="" type="checkbox"> Create new project folder</li>
+<li><input disabled="" type="checkbox"> Create new Notes folder
+<ul>
+<li><input disabled="" type="checkbox"> And Daily notes subfolder</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> Create note template files:
+<ul>
+<li><input disabled="" type="checkbox"> Notes:</li>
+<li><input disabled="" type="checkbox"> ToDo:</li>
+<li><input disabled="" type="checkbox"> Daily log</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> Initialize dev environment (with git)</li>
+<li><input disabled="" type="checkbox"> Add to github (private)
+<ul>
+<li><input disabled="" type="checkbox"> gh repo create {name} &ndash;private &ndash;source=. &ndash;remote=upstream</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> Create</li>
+<li><input disabled="" type="checkbox"> </li>
+</ul>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">Related content</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/pages/projects/obsidian_manager/notes/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title"></h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/pages/projects/obsidian_manager/tasks/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title"></h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/pages/projects/python_parser/notes/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title"></h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/pages/projects/python_parser/tasks/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title"></h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/pages/about/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">About</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2024 Bullish Design
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.29.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.6dfa4e2be6162f51814d57b4de09c39c9d7b906dc90729f3a7177a6f21cf8287.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>
