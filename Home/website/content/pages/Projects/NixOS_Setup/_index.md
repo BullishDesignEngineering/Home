@@ -1,3 +1,0 @@
----
-title: Nixos_Setup
----

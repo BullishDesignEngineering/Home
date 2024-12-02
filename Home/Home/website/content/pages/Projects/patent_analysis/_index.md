@@ -1,3 +1,0 @@
----
-title: Patent_Analysis
----
