@@ -1,3 +1,0 @@
----
-title: Auto_Pde
----
