@@ -4,7 +4,7 @@
   background-size: cover;
   background-position: center center;
   display: flex;
-  align-items: top;
+  align-items: center;
   justify-content: center;
   @include desktop{
     height: auto;
@@ -14,7 +14,6 @@
     padding: 150px 0;
   }
   &-content{
-    margin-top: 150px;
     h1{
       margin-bottom: 75px;
       @include desktop-lg{

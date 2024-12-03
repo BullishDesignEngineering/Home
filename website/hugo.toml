@@ -22,13 +22,17 @@ summarylength = 25
     url     = "portfolio"
     weight  = 3
   [[menu.nav]]
+    name    = "Automation"
+    url     = "automation"
+    weight  = 4
+  [[menu.nav]]
     name    = "Blog"
     url     = "blog"
-    weight  = 4
+    weight  = 5
   [[menu.nav]]
     name    = "Get in touch"
     url     = "contact"
-    weight  = 5
+    weight  = 6
 
 # Site Params
 [params]
@@ -108,7 +112,7 @@ summarylength = 25
       title   = "Contact Info"
 #address = "713 Elmwood St.<br>Prior Lake, MN 55372"
 #phone   = "409-896-1444"
-#email   = "info@roxo.co"
+      email   = "BullishDesignEngineering@gmail.com"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"
