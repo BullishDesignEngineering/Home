@@ -1,206 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Auto_Pde on Bullish Design</title>
-        <link>http://localhost:1313/pages/projects/auto_pde/</link>
-        <description>Recent content in Auto_Pde on Bullish Design</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en</language><atom:link href="http://localhost:1313/pages/projects/auto_pde/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Notes</title>
-        <link>http://localhost:1313/pages/projects/auto_pde/notes/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/pages/projects/auto_pde/notes/</guid>
-        <description>&lt;h1 id=&#34;auto_pde&#34;&gt;Auto_Pde
-&lt;/h1&gt;&lt;h1 id=&#34;what&#34;&gt;What:
-&lt;/h1&gt;&lt;p&gt;A completely streamlined product development environment. Starts off with a scaffold for a physical product (general dimensions/specs/requirements) that interoperates with CAD to create scaffolds of parts and assemblies. Updating the CAD updates the scaffold and vise versa.&lt;/p&gt;
-&lt;h1 id=&#34;why&#34;&gt;Why:
-&lt;/h1&gt;&lt;p&gt;Enable my solo consultancy plan.&lt;/p&gt;
-&lt;h1 id=&#34;goals&#34;&gt;Goals:
-&lt;/h1&gt;&lt;p&gt;Sit down with someone for an hour on a Friday, go through their product idea, do some sketches and Shapr3D CAD designs, and by Monday have:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Full product renders, ideally in 3d environments
-&lt;ul&gt;
-&lt;li&gt;Ideally also with AR or VR integration&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Full 3d parametric CAD files&lt;/li&gt;
-&lt;li&gt;Full 2d drawing package for overalls and for each part and subassembly&lt;/li&gt;
-&lt;li&gt;Full exports for prototypes:
-&lt;ul&gt;
-&lt;li&gt;STEP&lt;/li&gt;
-&lt;li&gt;DXF&lt;/li&gt;
-&lt;li&gt;STL&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Full quote package with preliminary prototype quotes&lt;/li&gt;
-&lt;li&gt;Full test package with a list of what configurations are needed of each product for each test.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;my-questions&#34;&gt;My Questions:
-&lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
-&lt;/h1&gt;&lt;p&gt;For each:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Read (Get)&lt;/li&gt;
-&lt;li&gt;Update/Create (Post)&lt;/li&gt;
-&lt;li&gt;Delete&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;onshape-api-connection&#34;&gt;Onshape API connection:
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Connect to Onshape API&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;NOTE: use standard onshape-public version, add logging output functionality based of robot example.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Save return output to file&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Compare Onshape item to DB Item&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Update Onshape from DB data&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Parse feature (general info) to db&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Add feature position during parse&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Translate featureID &amp;lt;-&amp;gt; ID value
-&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Flexible conversion function, use for JSON name &amp;lt;-&amp;gt; snake case field conversion as well.&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Enum as subclass of the particular OSModel class for conversion? Then reversible function for opposite direction.&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Generic function in the main OSModel class that works for parsing from JSON response.&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Different generic function that works for parsing from DB to REST JSON structure using the child model&amp;rsquo;s enum class.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Send every API call, save response to file based on call name&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Find some good sample public parts, assemblies, etc.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Script to generate models programmatically using datamodel-codegen&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Save to output folder&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Plan Pydantic code structure:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Fetch as many responses as possible&lt;/li&gt;
-&lt;li&gt;Generate as many models as possible&lt;/li&gt;
-&lt;li&gt;Condense models&lt;/li&gt;
-&lt;li&gt;Convert OAS to models?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Make pydantic typed api calls + responses&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Error for untyped response:
-&lt;ul&gt;
-&lt;li&gt;Call datamodel-codegen on response,&lt;/li&gt;
-&lt;li&gt;Save to folder for wayward response data&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;api---db-plan&#34;&gt;API -&amp;gt; DB Plan:
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Pydantic model for &amp;ldquo;All Items&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;SQLmodel models for db table items&lt;/li&gt;
-&lt;li&gt;Functionality:
-&lt;ul&gt;
-&lt;li&gt;Create/Update to&lt;/li&gt;
-&lt;li&gt;Read from&lt;/li&gt;
-&lt;li&gt;Delete (later)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;general-concept&#34;&gt;General concept:
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;For each table:
-&lt;ul&gt;
-&lt;li&gt;If no onshape ID, create in Onshape&lt;/li&gt;
-&lt;li&gt;Check all instances with Onshape instance and compare values&lt;/li&gt;
-&lt;li&gt;Choose which to update:
-&lt;ul&gt;
-&lt;li&gt;Update Onshape&lt;/li&gt;
-&lt;li&gt;Update Local&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Save changes in DB&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;createupdate&#34;&gt;Create/Update:
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;If item in DB has OnshapeID:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Update:
-&lt;ul&gt;
-&lt;li&gt;Read item from, compare, update Onshape if different&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;If no ID:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Create, then read values and update local&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Get response, parse to Pydantic/SQL  model(s)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;For each SQLModel object:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Check if exists in DB&lt;/li&gt;
-&lt;li&gt;Create if not&lt;/li&gt;
-&lt;li&gt;Compare for changes&lt;/li&gt;
-&lt;li&gt;Update if different&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;cad-automation&#34;&gt;CAD Automation:
-&lt;/h2&gt;&lt;h2 id=&#34;pde-scaffolddatabase&#34;&gt;PDE Scaffold/Database:
-&lt;/h2&gt;&lt;h3 id=&#34;project-structure&#34;&gt;Project Structure:
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Each project has a config file that pre-loads settings for interacting with both onshape and the database&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Project name/ID&lt;/li&gt;
-&lt;li&gt;DB filter/visidata views&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Each project generates a new workspace(folder?) in Onshape for all project files from that config file&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;quote-automation&#34;&gt;Quote Automation:
-&lt;/h2&gt;&lt;h2 id=&#34;rendering-automation&#34;&gt;Rendering Automation
-&lt;/h2&gt;&lt;h1 id=&#34;resources&#34;&gt;Resources:
-&lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
-&lt;/h1&gt;&lt;h1 id=&#34;log&#34;&gt;Log:
-&lt;/h1&gt;</description>
-        </item>
-        <item>
-        <title>ToDo</title>
-        <link>http://localhost:1313/pages/projects/auto_pde/tasks/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/pages/projects/auto_pde/tasks/</guid>
-        <description>&lt;h1 id=&#34;auto_pde_tasks&#34;&gt;Auto_Pde_Tasks
-&lt;/h1&gt;&lt;h1 id=&#34;outline&#34;&gt;Outline:
-&lt;/h1&gt;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
-&lt;/h1&gt;</description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Auto_Pde on Bullish Design</title>
+    <link>//localhost:1313/pages/projects/auto_pde/</link>
+    <description>Recent content in Auto_Pde on Bullish Design</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/pages/projects/auto_pde/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes</title>
+      <link>//localhost:1313/pages/projects/auto_pde/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/projects/auto_pde/notes/</guid>
+      <description>&lt;h1 id=&#34;auto_pde&#34;&gt;Auto_Pde&lt;/h1&gt;&#xA;&lt;h1 id=&#34;what&#34;&gt;What:&lt;/h1&gt;&#xA;&lt;p&gt;A completely streamlined product development environment. Starts off with a scaffold for a physical product (general dimensions/specs/requirements) that interoperates with CAD to create scaffolds of parts and assemblies. Updating the CAD updates the scaffold and vise versa.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ToDo</title>
+      <link>//localhost:1313/pages/projects/auto_pde/tasks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/projects/auto_pde/tasks/</guid>
+      <description>&lt;h1 id=&#34;auto_pde_tasks&#34;&gt;Auto_Pde_Tasks&lt;/h1&gt;&#xA;&lt;h1 id=&#34;outline&#34;&gt;Outline:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:&lt;/h1&gt;</description>
+    </item>
+  </channel>
 </rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telegram_Agent on Bullish Design</title>
+    <link>//localhost:1313/projects/telegram_agent/</link>
+    <description>Recent content in Telegram_Agent on Bullish Design</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/projects/telegram_agent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes</title>
+      <link>//localhost:1313/projects/telegram_agent/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/telegram_agent/notes/</guid>
+      <description>&lt;h1 id=&#34;telegram_agent&#34;&gt;Telegram_Agent&lt;/h1&gt;&#xA;&lt;h1 id=&#34;what&#34;&gt;What:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;why&#34;&gt;Why:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;goals&#34;&gt;Goals:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;my-questions&#34;&gt;My Questions:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;outline&#34;&gt;Outline:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;resources&#34;&gt;Resources:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;log&#34;&gt;Log:&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>ToDo</title>
+      <link>//localhost:1313/projects/telegram_agent/tasks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/telegram_agent/tasks/</guid>
+      <description>&lt;h1 id=&#34;telegram_agent_tasks&#34;&gt;Telegram_Agent_Tasks&lt;/h1&gt;&#xA;&lt;h1 id=&#34;outline&#34;&gt;Outline:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>

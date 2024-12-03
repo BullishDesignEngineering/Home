@@ -1,76 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Projects on Bullish Design</title>
-        <link>http://localhost:1313/pages/projects/</link>
-        <description>Recent content in Projects on Bullish Design</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en</language><atom:link href="http://localhost:1313/pages/projects/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Projects</title>
-        <link>http://localhost:1313/pages/projects/projects/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/pages/projects/projects/</guid>
-        <description>&lt;h1 id=&#34;programmingprojectsprogrammingprogrammingmd&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;Projects/Programming/Programming.md&#34; &gt;Programming&lt;/a&gt;
-&lt;/h1&gt;&lt;h2 id=&#34;nixosprojectsnixos_setupnixosmd&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;Projects/NixOS_Setup/NixOS.md&#34; &gt;NixOS&lt;/a&gt;
-&lt;/h2&gt;&lt;p&gt;Goal: Create a unified development environment that I can understand from the bottom up.&lt;/p&gt;
-&lt;h3 id=&#34;ideprojectsidenotesmd&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;Projects/IDE/Notes.md&#34; &gt;IDE&lt;/a&gt;
-&lt;/h3&gt;&lt;p&gt;Trying to create a personal development environment using &lt;a class=&#34;link&#34; href=&#34;Projects/NixOS_Setup/Neovim.md&#34; &gt;Neovim&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;devenv&#34;&gt;#Devenv
-&lt;/h1&gt;&lt;p&gt;Using Devenv.sh to create development environments.&lt;/p&gt;
-&lt;h2 id=&#34;shell-scriptingprojectsprogrammingshell20scriptingmd&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;Projects/Programming/Shell%20Scripting.md&#34; &gt;Shell Scripting&lt;/a&gt;
-&lt;/h2&gt;&lt;h4 id=&#34;neovimprojectsnixos_setupneovimmd&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;Projects/NixOS_Setup/Neovim.md&#34; &gt;Neovim&lt;/a&gt;
-&lt;/h4&gt;&lt;h2 id=&#34;data-analysisdata20analysismd&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;Data%20Analysis.md&#34; &gt;Data Analysis&lt;/a&gt;
-&lt;/h2&gt;&lt;p&gt;Goal: Create a flexible data analysis suite for rapid ingestion and visualization of various kinds of data.
-Types of data to work with:
-- Business data
-- Financial data
-- Structured Data
-- Patents
-- Fantasy Football stats&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Systems</title>
-        <link>http://localhost:1313/pages/projects/systems/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/pages/projects/systems/</guid>
-        <description>&lt;h1 id=&#34;computing-setup&#34;&gt;Computing Setup
-&lt;/h1&gt;&lt;p&gt;Declarative nixOS computing environment, with config files stored in git repository, able to be quickly installed on any system (wsl or linux) for a consistently productive environment.
-Bonus points for having something entirely accessible via plain-text interaction so can be accessed via a terminal (or terminal-like) interface from anywhere at any time (personal development server hosted at home or in the cloud?)&lt;/p&gt;
-&lt;h2 id=&#34;structure&#34;&gt;Structure
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/nixos_setup/tmux/&#34; &gt;Tmux&lt;/a&gt; + &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/nixos_setup/neovim/&#34; &gt;Neovim&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Tmux handles organization of multiple neovim panes&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Multiple workspaces, one for each project&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Panes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Project browsing&lt;/li&gt;
-&lt;li&gt;File Browsing&lt;/li&gt;
-&lt;li&gt;Notes&lt;/li&gt;
-&lt;li&gt;Coding (1 file focus, multiple file focus)&lt;/li&gt;
-&lt;li&gt;Coding Output (again, single or multiple output, data, data viz, web, photo, video?)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Keyboard shortcuts and scripts for rapid navigation and iteration&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Modular (i.e. - git operations, automatically done for each project&amp;rsquo;s repository)&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Projects on Bullish Design</title>
+    <link>//localhost:1313/pages/projects/</link>
+    <description>Recent content in Projects on Bullish Design</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/pages/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/pages/projects/roxo-muted/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/projects/roxo-muted/notes/</guid>
+      <description>&lt;h1 id=&#34;roxo-muted&#34;&gt;Roxo-Muted&lt;/h1&gt;&#xA;&lt;h1 id=&#34;what&#34;&gt;What:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;why&#34;&gt;Why:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;goals&#34;&gt;Goals:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;outline&#34;&gt;Outline:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;my-questions&#34;&gt;My Questions:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;learnings&#34;&gt;Learnings:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;resources&#34;&gt;Resources:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;log&#34;&gt;Log:&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/pages/projects/roxo-muted/tasks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/projects/roxo-muted/tasks/</guid>
+      <description>&lt;h1 id=&#34;roxo-muted-tasks&#34;&gt;Roxo-Muted Tasks&lt;/h1&gt;&#xA;&lt;h1 id=&#34;outline&#34;&gt;Outline:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;roxo-muted-tasks-1&#34;&gt;Roxo-Muted Tasks:&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>//localhost:1313/pages/projects/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/projects/projects/</guid>
+      <description>&lt;h1 id=&#34;programmingprojectsprogrammingprogrammingmd&#34;&gt;&lt;a href=&#34;Projects/Programming/Programming.md&#34;&gt;Programming&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;nixosprojectsnixos_setupnixosmd&#34;&gt;&lt;a href=&#34;Projects/NixOS_Setup/NixOS.md&#34;&gt;NixOS&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Goal: Create a unified development environment that I can understand from the bottom up.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ideprojectsidenotesmd&#34;&gt;&lt;a href=&#34;Projects/IDE/Notes.md&#34;&gt;IDE&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Trying to create a personal development environment using &lt;a href=&#34;Projects/NixOS_Setup/Neovim.md&#34;&gt;Neovim&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Systems</title>
+      <link>//localhost:1313/pages/projects/systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/projects/systems/</guid>
+      <description>&lt;h1 id=&#34;computing-setup&#34;&gt;Computing Setup&lt;/h1&gt;&#xA;&lt;p&gt;Declarative nixOS computing environment, with config files stored in git repository, able to be quickly installed on any system (wsl or linux) for a consistently productive environment.&#xA;Bonus points for having something entirely accessible via plain-text interaction so can be accessed via a terminal (or terminal-like) interface from anywhere at any time (personal development server hosted at home or in the cloud?)&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>

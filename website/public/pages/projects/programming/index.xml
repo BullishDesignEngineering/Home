@@ -1,219 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Programming on Bullish Design</title>
-        <link>http://localhost:1313/pages/projects/programming/</link>
-        <description>Recent content in Programming on Bullish Design</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en</language><atom:link href="http://localhost:1313/pages/projects/programming/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Programming</title>
-        <link>http://localhost:1313/pages/projects/programming/programming/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/pages/projects/programming/programming/</guid>
-        <description>&lt;h1 id=&#34;goal&#34;&gt;Goal:
-&lt;/h1&gt;&lt;p&gt;Streamlined understanding of how to code. Minimal overhead (only a few languages), maximum effectiveness.&lt;/p&gt;
-&lt;h1 id=&#34;languages&#34;&gt;Languages
-&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/pages/projects/nixos_setup/nix/&#34; &gt;Nix&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;python&#34;&gt;#Python
-&lt;/h2&gt;&lt;h2 id=&#34;web-development-with-devenv&#34;&gt;Web development with devenv:
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/cachix/devenv/tree/main/examples%2Ffly.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/cachix/devenv/tree/main/examples%2Ffly.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>Shell Scripting</title>
-        <link>http://localhost:1313/pages/projects/programming/shell-scripting/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/pages/projects/programming/shell-scripting/</guid>
-        <description>&lt;h1 id=&#34;what-is-it&#34;&gt;What is it?
-&lt;/h1&gt;&lt;p&gt;A shell is a program that runs a coding language (called bash) in the terminal. Bash is the same language used at the command line, shell scripting just allows you to chain longer commands together in one go. Multiple shell instances can be run in one terminal, allowing some amount of multitasking/background processing.&lt;/p&gt;
-&lt;p&gt;Think of it as more or less the native language the computer talks to itself in, allowing you to speak to it on its own language.&lt;/p&gt;
-&lt;h1 id=&#34;why-learn-it&#34;&gt;Why learn it?
-&lt;/h1&gt;&lt;p&gt;Super handy to perform general functionality of the computer itself - most (all?) functionality of the GUI is just performing shell scripts under the hood, so why not learn what its actually doing?&lt;/p&gt;
-&lt;h1 id=&#34;my-questions&#34;&gt;My Questions:
-&lt;/h1&gt;&lt;ol&gt;
-&lt;li&gt;Is bash actually the same language as what&amp;rsquo;s being used in the command line?&lt;/li&gt;
-&lt;li&gt;Is there a more modular way to import shell scripts into home.nix?
-&lt;ol&gt;
-&lt;li&gt;Maybe call out to a folder that reads each shell script saved there?&lt;/li&gt;
-&lt;li&gt;Or just a single call to a library folder that does the rest?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;Does an imported .sh file need to be made executable first to import a function?
-&lt;ol&gt;
-&lt;li&gt;Nope. See &amp;ldquo;imported&amp;rdquo;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 id=&#34;goals&#34;&gt;Goals:
-&lt;/h1&gt;&lt;ol&gt;
-&lt;li&gt;Have a personal library of shell scripts (that ideally plays well with NixOS) to make life easier/quicker&lt;/li&gt;
-&lt;li&gt;Use to streamline/standardize daily functionality to reduce overhead and make work/life more efficient and effective.&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 id=&#34;tasks&#34;&gt;Tasks:
-&lt;/h1&gt;&lt;ol&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Figure out how to import from one shell script into another.&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Create daily notes file
-&lt;ol&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Using the obsidian plugin?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Create &amp;ldquo;Main&amp;rdquo; startup page
-&lt;ol&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Create list of all project folders via script&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Add list of all projects to main startup page&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Auto-create a daily notes page
-&lt;ol&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Choosing project &amp;ldquo;ToDos&amp;rdquo; for the day loads the project in the background in a Tmux buffer&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Autogens the daily note, populates with the ToDo item in question&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 id=&#34;resources&#34;&gt;Resources:
-&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Chmod&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://en.wikipedia.org/wiki/Chmod&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://stackoverflow.com/questions/192292/how-best-to-include-other-scripts&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://stackoverflow.com/questions/192292/how-best-to-include-other-scripts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://stackoverflow.com/questions/10823635/how-to-include-file-in-a-bash-shell-script&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://stackoverflow.com/questions/10823635/how-to-include-file-in-a-bash-shell-script&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;shell-library-outline&#34;&gt;Shell Library Outline:
-&lt;/h1&gt;&lt;p&gt;General idea - make it easy to perform various automated tasks. Start with project initialization, add on from there. So, using subheadings as buckets, it&amp;rsquo;ll need:&lt;/p&gt;
-&lt;h2 id=&#34;time&#34;&gt;Time:
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Date
-&lt;ul&gt;
-&lt;li&gt;Calendar&lt;/li&gt;
-&lt;li&gt;Week number, day number&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Time&lt;/li&gt;
-&lt;li&gt;Time elapsed&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;filesdirectories&#34;&gt;Files/Directories:
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Create directory&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Create file&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Get names
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Files&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Directories&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;text&#34;&gt;Text:
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Find text&lt;/li&gt;
-&lt;li&gt;Compare text&lt;/li&gt;
-&lt;li&gt;Insert Text&lt;/li&gt;
-&lt;li&gt;Append text&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;scripting&#34;&gt;Scripting
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Add script to NixOS&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Github repo initialization&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Github Project repo initialization&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;notes&#34;&gt;Notes:
-&lt;/h1&gt;&lt;p&gt;General notes as things go, not yet organized&lt;/p&gt;
-&lt;h2 id=&#34;how-to-make-a-shell-script&#34;&gt;How to make a shell script:
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;Write bash code that would work in the command line, save to a &amp;ldquo;.sh&amp;rdquo; file extension&lt;/li&gt;
-&lt;li&gt;First line must be &amp;ldquo;#!/bin/bash&amp;rdquo; (if making a script to call by filename, see below for NixOS version)
-&lt;ol&gt;
-&lt;li&gt;&amp;ldquo;#!&amp;rdquo; means this is executable, the rest just tells shell (remember that its a program, so it needs a hint) that it should run as a bash script&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;in the command line, tell your computer that its executable, not just a regular old file:
-&lt;ol&gt;
-&lt;li&gt;Run &amp;ldquo;chmod +x filename&amp;rdquo;
-&lt;ol&gt;
-&lt;li&gt;chmod = change mode&lt;/li&gt;
-&lt;li&gt;+x = Add executable mode to the file (so it can be run)&lt;/li&gt;
-&lt;li&gt;filename = path to the file just written. (Can also add multiple files at once)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;how-to-make-a-nixos-shell-script&#34;&gt;How to make a NixOS shell script
-&lt;/h2&gt;&lt;p&gt;The above way still works if you want to call something by filename. But, if you want to call it by it&amp;rsquo;s own command shortcut, you need to tell NixOS about it. So:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Same step one as above - write your script&lt;/li&gt;
-&lt;li&gt;Add to home.nix as a package:
-&lt;ol&gt;
-&lt;li&gt;(writeShellScriptBin &amp;ldquo;command-name&amp;rdquo; (builtings.readFile filepath))
-&lt;ol&gt;
-&lt;li&gt;writeShellScriptBin = NixOS command to take the script and add it to the list of commands that can be run&lt;/li&gt;
-&lt;li&gt;command-name = the shortcut you want to be able to call it with&lt;/li&gt;
-&lt;li&gt;builtins.readFile = NixOS command to read the script file you just wrote&lt;/li&gt;
-&lt;li&gt;filepath = the file you just write&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;importingcalling-shell-scripts&#34;&gt;Importing/calling shell scripts:
-&lt;/h2&gt;&lt;p&gt;Important - there are different ways to call a script from another script. One executes it in the current shell environment, the other calls it in a sub-shell. Calling it in a sub-shell means its a clean slate. No access to any variables previously created in the first shell instance. This can be handy to just get a simple result back without having to worry about leftover/overwritten variables.&lt;/p&gt;
-&lt;h2 id=&#34;importing-shell-functions&#34;&gt;Importing shell functions:
-&lt;/h2&gt;&lt;p&gt;Just import with &amp;ldquo;source filename.sh&amp;rdquo;. Basically treats everything in that other script as though it&amp;rsquo;s lines are inserted at that point.&lt;/p&gt;
-&lt;p&gt;Don&amp;rsquo;t need the &amp;ldquo;#! bin/bash&amp;rdquo; for the first line, you can just go with code from the get-go&lt;/p&gt;
-&lt;h2 id=&#34;adding-script-to-nixos&#34;&gt;Adding script to NixOS:
-&lt;/h2&gt;&lt;p&gt;Attempt 1: Attempted to import scripts from an external nix file as text using builtins.readFile. Failed due to &amp;ldquo;not being a package&amp;rdquo;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A definition for option &amp;rsquo;&amp;rsquo; is not of type &amp;lsquo;package&amp;rsquo;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Attempt 2: Just write a script that adds text directly to the home.nix file.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Strip first chunk&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; For each script in a script directory:
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Copy script to dotfiles script directory&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Create script&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;script-date&#34;&gt;Script Date:
-&lt;/h2&gt;&lt;p&gt;Built-in day of week and week of year functions exist. Need to confirm how they work around the start of the year?&lt;/p&gt;
-&lt;h2 id=&#34;new-project-script&#34;&gt;New Project Script:
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Create new project folder&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Create new Notes folder
-&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; And Daily notes subfolder&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Create note template files:
-&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Notes:&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; ToDo:&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Daily log&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Initialize dev environment (with git)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Add to github (private)
-&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; gh repo create {name} &amp;ndash;private &amp;ndash;source=. &amp;ndash;remote=upstream&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Create&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Programming on Bullish Design</title>
+    <link>//localhost:1313/pages/projects/programming/</link>
+    <description>Recent content in Programming on Bullish Design</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/pages/projects/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming</title>
+      <link>//localhost:1313/pages/projects/programming/programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/projects/programming/programming/</guid>
+      <description>&lt;h1 id=&#34;goal&#34;&gt;Goal:&lt;/h1&gt;&#xA;&lt;p&gt;Streamlined understanding of how to code. Minimal overhead (only a few languages), maximum effectiveness.&lt;/p&gt;&#xA;&lt;h1 id=&#34;languages&#34;&gt;Languages&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;//localhost:1313/pages/projects/nixos_setup/nix/&#34;&gt;Nix&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;python&#34;&gt;#Python&lt;/h2&gt;&#xA;&lt;h2 id=&#34;web-development-with-devenv&#34;&gt;Web development with devenv:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/cachix/devenv/tree/main/examples%2Ffly.io&#34;&gt;https://github.com/cachix/devenv/tree/main/examples%2Ffly.io&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Shell Scripting</title>
+      <link>//localhost:1313/pages/projects/programming/shell-scripting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/projects/programming/shell-scripting/</guid>
+      <description>&lt;h1 id=&#34;what-is-it&#34;&gt;What is it?&lt;/h1&gt;&#xA;&lt;p&gt;A shell is a program that runs a coding language (called bash) in the terminal. Bash is the same language used at the command line, shell scripting just allows you to chain longer commands together in one go. Multiple shell instances can be run in one terminal, allowing some amount of multitasking/background processing.&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>
