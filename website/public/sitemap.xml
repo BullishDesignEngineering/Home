@@ -2,196 +2,195 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/about/</loc>
-    <lastmod>2024-07-12T18:19:33+06:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2024-07-12T18:19:33+06:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/blog/design-inspiration-the-best-projects-from-december/</loc>
+    <loc>http://localhost:1313/Home/</loc>
     <lastmod>2019-12-24T13:45:06+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/the-10-biggest-rebrands-and-logo-designs-of-2019/</loc>
+    <loc>http://localhost:1313/Home/blog/design-inspiration-the-best-projects-from-december/</loc>
+    <lastmod>2019-12-24T13:45:06+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Home/blog/the-10-biggest-rebrands-and-logo-designs-of-2019/</loc>
     <lastmod>2019-12-24T13:40:00+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/design-inspiration-the-best-projects-from-november/</loc>
+    <loc>http://localhost:1313/Home/blog/design-inspiration-the-best-projects-from-november/</loc>
     <lastmod>2019-12-24T13:36:06+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/pt-chooses-classic-blue-for-its-colour-of-the-year-2020/</loc>
+    <loc>http://localhost:1313/Home/blog/pt-chooses-classic-blue-for-its-colour-of-the-year-2020/</loc>
     <lastmod>2019-12-24T13:32:54+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/the-10-biggest-product-stories-of-2019/</loc>
+    <loc>http://localhost:1313/Home/blog/the-10-biggest-product-stories-of-2019/</loc>
     <lastmod>2019-12-24T12:58:17+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/portfolio/kio-tape-2/</loc>
+    <loc>http://localhost:1313/Home/portfolio/kio-tape-2/</loc>
     <lastmod>2019-12-23T20:56:42+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>http://localhost:1313/Home/blog/</loc>
     <lastmod>2019-12-23T20:17:01+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>http://localhost:1313/Home/contact/</loc>
     <lastmod>2019-12-23T20:17:01+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/portfolio/</loc>
+    <loc>http://localhost:1313/Home/portfolio/</loc>
     <lastmod>2019-12-23T16:48:28+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/automation/</loc>
+    <loc>http://localhost:1313/Home/automation/</loc>
     <lastmod>2019-12-23T16:48:28+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/portfolio/use-less-brand/</loc>
+    <loc>http://localhost:1313/Home/portfolio/use-less-brand/</loc>
     <lastmod>2019-12-23T15:58:10+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/portfolio/osen-clock/</loc>
+    <loc>http://localhost:1313/Home/portfolio/osen-clock/</loc>
     <lastmod>2019-12-23T15:56:43+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/portfolio/seamless-watch/</loc>
+    <loc>http://localhost:1313/Home/portfolio/seamless-watch/</loc>
     <lastmod>2019-12-23T15:55:44+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/portfolio/kio-tape/</loc>
+    <loc>http://localhost:1313/Home/portfolio/kio-tape/</loc>
     <lastmod>2019-12-23T15:44:46+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/obsidian_manager/notes/</loc>
+    <loc>http://localhost:1313/Home/projects/obsidian_manager/notes/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/obsidian_manager/tasks/</loc>
+    <loc>http://localhost:1313/Home/projects/obsidian_manager/tasks/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/python_parser/notes/</loc>
+    <loc>http://localhost:1313/Home/projects/python_parser/notes/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/python_parser/tasks/</loc>
+    <loc>http://localhost:1313/Home/projects/python_parser/tasks/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/roxo-muted/notes/</loc>
+    <loc>http://localhost:1313/Home/projects/roxo-muted/notes/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/roxo-muted/tasks/</loc>
+    <loc>http://localhost:1313/Home/projects/roxo-muted/tasks/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/auto_pde/</loc>
+    <loc>http://localhost:1313/Home/about/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/Home/projects/auto_pde/</loc>
   </url><url>
-    <loc>//localhost:1313/data-analysis/</loc>
+    <loc>http://localhost:1313/Home/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/nixos_setup/devenv.sh/</loc>
+    <loc>http://localhost:1313/Home/data-analysis/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/fantasy_football/</loc>
+    <loc>http://localhost:1313/Home/projects/nixos_setup/devenv.sh/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/ide/</loc>
+    <loc>http://localhost:1313/Home/projects/fantasy_football/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/nixos_setup/kitty/</loc>
+    <loc>http://localhost:1313/Home/projects/ide/</loc>
   </url><url>
-    <loc>//localhost:1313/life/</loc>
+    <loc>http://localhost:1313/Home/projects/nixos_setup/kitty/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/llm_agents/</loc>
+    <loc>http://localhost:1313/Home/life/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/llmedia/</loc>
+    <loc>http://localhost:1313/Home/projects/llm_agents/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/miragram/</loc>
+    <loc>http://localhost:1313/Home/projects/llmedia/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/nixos_setup/neovim/</loc>
+    <loc>http://localhost:1313/Home/projects/miragram/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/nixos_setup/nix/</loc>
+    <loc>http://localhost:1313/Home/projects/nixos_setup/neovim/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/nixos_setup/nixos/</loc>
+    <loc>http://localhost:1313/Home/projects/nixos_setup/nix/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/nixos_setup/nixos-setup/</loc>
+    <loc>http://localhost:1313/Home/projects/nixos_setup/nixos/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/nixos_setup/</loc>
+    <loc>http://localhost:1313/Home/projects/nixos_setup/nixos-setup/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/auto_pde/notes/</loc>
+    <loc>http://localhost:1313/Home/projects/nixos_setup/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/fantasy_football/notes/</loc>
+    <loc>http://localhost:1313/Home/projects/auto_pde/notes/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/ide/notes/</loc>
+    <loc>http://localhost:1313/Home/projects/fantasy_football/notes/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/llm_agents/notes/</loc>
+    <loc>http://localhost:1313/Home/projects/ide/notes/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/llmedia/notes/</loc>
+    <loc>http://localhost:1313/Home/projects/llm_agents/notes/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/miragram/notes/</loc>
+    <loc>http://localhost:1313/Home/projects/llmedia/notes/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/notes_automation/notes/</loc>
+    <loc>http://localhost:1313/Home/projects/miragram/notes/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/patent_analysis/notes/</loc>
+    <loc>http://localhost:1313/Home/projects/notes_automation/notes/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/python_toolbox/notes/</loc>
+    <loc>http://localhost:1313/Home/projects/patent_analysis/notes/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/scripting/notes/</loc>
+    <loc>http://localhost:1313/Home/projects/python_toolbox/notes/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/telegram_agent/notes/</loc>
+    <loc>http://localhost:1313/Home/projects/scripting/notes/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/tui_db/notes/</loc>
+    <loc>http://localhost:1313/Home/projects/telegram_agent/notes/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/typeraider/notes/</loc>
+    <loc>http://localhost:1313/Home/projects/tui_db/notes/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/website/notes/</loc>
+    <loc>http://localhost:1313/Home/projects/typeraider/notes/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/notes_automation/</loc>
+    <loc>http://localhost:1313/Home/projects/website/notes/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/nixos_setup/obsidian/</loc>
+    <loc>http://localhost:1313/Home/projects/notes_automation/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/obsidian_manager/</loc>
+    <loc>http://localhost:1313/Home/projects/nixos_setup/obsidian/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/patent_analysis/</loc>
+    <loc>http://localhost:1313/Home/projects/obsidian_manager/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/programming/</loc>
+    <loc>http://localhost:1313/Home/projects/patent_analysis/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/programming/programming/</loc>
+    <loc>http://localhost:1313/Home/projects/programming/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/Home/projects/programming/programming/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/nixos_setup/python/</loc>
+    <loc>http://localhost:1313/Home/projects/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/programming/python/</loc>
+    <loc>http://localhost:1313/Home/projects/nixos_setup/python/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/python_parser/</loc>
+    <loc>http://localhost:1313/Home/projects/programming/python/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/python_toolbox/</loc>
+    <loc>http://localhost:1313/Home/projects/python_parser/</loc>
   </url><url>
-    <loc>//localhost:1313/random-shit/</loc>
+    <loc>http://localhost:1313/Home/projects/python_toolbox/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/scripting/</loc>
+    <loc>http://localhost:1313/Home/random-shit/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/programming/shell-scripting/</loc>
+    <loc>http://localhost:1313/Home/projects/scripting/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/systems/</loc>
+    <loc>http://localhost:1313/Home/projects/programming/shell-scripting/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/Home/projects/systems/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/telegram_agent/</loc>
+    <loc>http://localhost:1313/Home/tags/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/nixos_setup/tmux/</loc>
+    <loc>http://localhost:1313/Home/projects/telegram_agent/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/auto_pde/tasks/</loc>
+    <loc>http://localhost:1313/Home/projects/nixos_setup/tmux/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/fantasy_football/tasks/</loc>
+    <loc>http://localhost:1313/Home/projects/auto_pde/tasks/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/ide/tasks/</loc>
+    <loc>http://localhost:1313/Home/projects/fantasy_football/tasks/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/llm_agents/tasks/</loc>
+    <loc>http://localhost:1313/Home/projects/ide/tasks/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/llmedia/tasks/</loc>
+    <loc>http://localhost:1313/Home/projects/llm_agents/tasks/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/miragram/tasks/</loc>
+    <loc>http://localhost:1313/Home/projects/llmedia/tasks/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/notes_automation/tasks/</loc>
+    <loc>http://localhost:1313/Home/projects/miragram/tasks/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/patent_analysis/tasks/</loc>
+    <loc>http://localhost:1313/Home/projects/notes_automation/tasks/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/python_toolbox/tasks/</loc>
+    <loc>http://localhost:1313/Home/projects/patent_analysis/tasks/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/scripting/tasks/</loc>
+    <loc>http://localhost:1313/Home/projects/python_toolbox/tasks/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/telegram_agent/tasks/</loc>
+    <loc>http://localhost:1313/Home/projects/scripting/tasks/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/tui_db/tasks/</loc>
+    <loc>http://localhost:1313/Home/projects/telegram_agent/tasks/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/typeraider/tasks/</loc>
+    <loc>http://localhost:1313/Home/projects/tui_db/tasks/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/website/tasks/</loc>
+    <loc>http://localhost:1313/Home/projects/typeraider/tasks/</loc>
   </url><url>
-    <loc>//localhost:1313/traveling-notes/</loc>
+    <loc>http://localhost:1313/Home/projects/website/tasks/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/tui_db/</loc>
+    <loc>http://localhost:1313/Home/traveling-notes/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/typeraider/</loc>
+    <loc>http://localhost:1313/Home/projects/tui_db/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/website/</loc>
+    <loc>http://localhost:1313/Home/projects/typeraider/</loc>
+  </url><url>
+    <loc>http://localhost:1313/Home/projects/website/</loc>
   </url>
 </urlset>

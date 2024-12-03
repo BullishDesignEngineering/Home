@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fantasy_Football on Bullish Design</title>
-    <link>//localhost:1313/projects/fantasy_football/</link>
+    <link>http://localhost:1313/Home/projects/fantasy_football/</link>
     <description>Recent content in Fantasy_Football on Bullish Design</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/projects/fantasy_football/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Home/projects/fantasy_football/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes</title>
-      <link>//localhost:1313/projects/fantasy_football/notes/</link>
+      <link>http://localhost:1313/Home/projects/fantasy_football/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/fantasy_football/notes/</guid>
+      <guid>http://localhost:1313/Home/projects/fantasy_football/notes/</guid>
       <description>&lt;h1 id=&#34;fantasy_football&#34;&gt;Fantasy_Football&lt;/h1&gt;&#xA;&lt;h1 id=&#34;what&#34;&gt;What:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;why&#34;&gt;Why:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;goals&#34;&gt;Goals:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;my-questions&#34;&gt;My Questions:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;outline&#34;&gt;Outline:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;resources&#34;&gt;Resources:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;log&#34;&gt;Log:&lt;/h1&gt;</description>
     </item>
     <item>
       <title>ToDo</title>
-      <link>//localhost:1313/projects/fantasy_football/tasks/</link>
+      <link>http://localhost:1313/Home/projects/fantasy_football/tasks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/fantasy_football/tasks/</guid>
+      <guid>http://localhost:1313/Home/projects/fantasy_football/tasks/</guid>
       <description>&lt;h1 id=&#34;fantasy_football_tasks&#34;&gt;Fantasy_Football_Tasks&lt;/h1&gt;&#xA;&lt;h1 id=&#34;outline&#34;&gt;Outline:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:&lt;/h1&gt;</description>
     </item>
   </channel>

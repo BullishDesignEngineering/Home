@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patent_Analysis on Bullish Design</title>
-    <link>//localhost:1313/projects/patent_analysis/</link>
+    <link>http://localhost:1313/Home/projects/patent_analysis/</link>
     <description>Recent content in Patent_Analysis on Bullish Design</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/projects/patent_analysis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Home/projects/patent_analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes</title>
-      <link>//localhost:1313/projects/patent_analysis/notes/</link>
+      <link>http://localhost:1313/Home/projects/patent_analysis/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/patent_analysis/notes/</guid>
+      <guid>http://localhost:1313/Home/projects/patent_analysis/notes/</guid>
       <description>&lt;h1 id=&#34;patent-analysis&#34;&gt;Patent Analysis&lt;/h1&gt;&#xA;&lt;h1 id=&#34;what&#34;&gt;What:&lt;/h1&gt;&#xA;&lt;p&gt;A python library to parse and analyze the historical USPTO database.&lt;/p&gt;&#xA;&lt;h1 id=&#34;why&#34;&gt;Why:&lt;/h1&gt;&#xA;&lt;p&gt;Use to find interesting patents:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The &amp;ldquo;most referenced&amp;rdquo; patent of the day/week that is just coming off patent.&lt;/li&gt;&#xA;&lt;li&gt;The least referenced patent of the week&lt;/li&gt;&#xA;&lt;li&gt;The most ridiculous patent of the week&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Use those to create new &amp;ldquo;inventions&amp;rdquo;/products utilizing those patents.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ToDo</title>
-      <link>//localhost:1313/projects/patent_analysis/tasks/</link>
+      <link>http://localhost:1313/Home/projects/patent_analysis/tasks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/patent_analysis/tasks/</guid>
+      <guid>http://localhost:1313/Home/projects/patent_analysis/tasks/</guid>
       <description>&lt;h1 id=&#34;tasks&#34;&gt;Tasks&lt;/h1&gt;&#xA;&lt;h1 id=&#34;outline&#34;&gt;Outline:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;tasks-1&#34;&gt;Tasks:&lt;/h1&gt;</description>
     </item>
   </channel>
