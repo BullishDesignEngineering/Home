@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miragram on Bullish Design</title>
-    <link>http://localhost:1313/Home/projects/miragram/</link>
+    <link>https://bullishdesignengineering.github.io/Home/projects/miragram/</link>
     <description>Recent content in Miragram on Bullish Design</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/Home/projects/miragram/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bullishdesignengineering.github.io/Home/projects/miragram/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes</title>
-      <link>http://localhost:1313/Home/projects/miragram/notes/</link>
+      <link>https://bullishdesignengineering.github.io/Home/projects/miragram/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Home/projects/miragram/notes/</guid>
+      <guid>https://bullishdesignengineering.github.io/Home/projects/miragram/notes/</guid>
       <description>&lt;h1 id=&#34;miragram&#34;&gt;MiraGram&lt;/h1&gt;&#xA;&lt;h1 id=&#34;what&#34;&gt;What:&lt;/h1&gt;&#xA;&lt;p&gt;A library to handle LLM I/O and storing/retrieving from DB via the Mirascope library.&lt;/p&gt;&#xA;&lt;h1 id=&#34;why&#34;&gt;Why:&lt;/h1&gt;&#xA;&lt;p&gt;Use in other projects for streamlined LLM calling functionality.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ToDo</title>
-      <link>http://localhost:1313/Home/projects/miragram/tasks/</link>
+      <link>https://bullishdesignengineering.github.io/Home/projects/miragram/tasks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Home/projects/miragram/tasks/</guid>
+      <guid>https://bullishdesignengineering.github.io/Home/projects/miragram/tasks/</guid>
       <description>&lt;h1 id=&#34;miragram_tasks&#34;&gt;MiraGram_Tasks&lt;/h1&gt;&#xA;&lt;h1 id=&#34;outline&#34;&gt;Outline:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:&lt;/h1&gt;</description>
     </item>
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Llm_Agents on Bullish Design</title>
-    <link>http://localhost:1313/Home/projects/llm_agents/</link>
+    <link>https://bullishdesignengineering.github.io/Home/projects/llm_agents/</link>
     <description>Recent content in Llm_Agents on Bullish Design</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/Home/projects/llm_agents/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bullishdesignengineering.github.io/Home/projects/llm_agents/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes</title>
-      <link>http://localhost:1313/Home/projects/llm_agents/notes/</link>
+      <link>https://bullishdesignengineering.github.io/Home/projects/llm_agents/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Home/projects/llm_agents/notes/</guid>
+      <guid>https://bullishdesignengineering.github.io/Home/projects/llm_agents/notes/</guid>
       <description>&lt;h1 id=&#34;llm_agents&#34;&gt;LLM_Agents&lt;/h1&gt;&#xA;&lt;h1 id=&#34;what&#34;&gt;What:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;why&#34;&gt;Why:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;goals&#34;&gt;Goals:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;my-questions&#34;&gt;My Questions:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;outline&#34;&gt;Outline:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;resources&#34;&gt;Resources:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;log&#34;&gt;Log:&lt;/h1&gt;</description>
     </item>
     <item>
       <title>ToDo</title>
-      <link>http://localhost:1313/Home/projects/llm_agents/tasks/</link>
+      <link>https://bullishdesignengineering.github.io/Home/projects/llm_agents/tasks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Home/projects/llm_agents/tasks/</guid>
+      <guid>https://bullishdesignengineering.github.io/Home/projects/llm_agents/tasks/</guid>
       <description>&lt;h1 id=&#34;llm_agents_tasks&#34;&gt;LLM_Agents_Tasks&lt;/h1&gt;&#xA;&lt;h1 id=&#34;outline&#34;&gt;Outline:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:&lt;/h1&gt;</description>
     </item>
   </channel>
