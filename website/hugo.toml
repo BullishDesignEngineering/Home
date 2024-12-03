@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://bullishdesignengineering.github.io/Home/"
 #baseURL = "http://www.bullishdesign.co/" 
 languageCode = 'en-us'
 title = 'Bullish Design'
