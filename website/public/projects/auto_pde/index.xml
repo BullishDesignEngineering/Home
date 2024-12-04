@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Auto_Pde on Bullish Design</title>
-    <link>https://bullishdesignengineering.github.io/projects/auto_pde/</link>
+    <link>https://bullishdesign.co/projects/auto_pde/</link>
     <description>Recent content in Auto_Pde on Bullish Design</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://bullishdesignengineering.github.io/projects/auto_pde/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bullishdesign.co/projects/auto_pde/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes</title>
-      <link>https://bullishdesignengineering.github.io/projects/auto_pde/notes/</link>
+      <link>https://bullishdesign.co/projects/auto_pde/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bullishdesignengineering.github.io/projects/auto_pde/notes/</guid>
+      <guid>https://bullishdesign.co/projects/auto_pde/notes/</guid>
       <description>&lt;h1 id=&#34;auto_pde&#34;&gt;Auto_Pde&lt;/h1&gt;&#xA;&lt;h1 id=&#34;what&#34;&gt;What:&lt;/h1&gt;&#xA;&lt;p&gt;A completely streamlined product development environment. Starts off with a scaffold for a physical product (general dimensions/specs/requirements) that interoperates with CAD to create scaffolds of parts and assemblies. Updating the CAD updates the scaffold and vise versa.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ToDo</title>
-      <link>https://bullishdesignengineering.github.io/projects/auto_pde/tasks/</link>
+      <link>https://bullishdesign.co/projects/auto_pde/tasks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bullishdesignengineering.github.io/projects/auto_pde/tasks/</guid>
+      <guid>https://bullishdesign.co/projects/auto_pde/tasks/</guid>
       <description>&lt;h1 id=&#34;auto_pde_tasks&#34;&gt;Auto_Pde_Tasks&lt;/h1&gt;&#xA;&lt;h1 id=&#34;outline&#34;&gt;Outline:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:&lt;/h1&gt;</description>
     </item>
   </channel>

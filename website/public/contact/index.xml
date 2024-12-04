@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Bullish Design</title>
-    <link>https://bullishdesignengineering.github.io/contact/</link>
+    <link>https://bullishdesign.co/contact/</link>
     <description>Recent content in Contact on Bullish Design</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://bullishdesignengineering.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bullishdesign.co/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
