@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Llmedia on Bullish Design</title>
-    <link>https://bullishdesignengineering.github.io/Home/projects/llmedia/</link>
+    <link>https://bullishdesignengineering.github.io/projects/llmedia/</link>
     <description>Recent content in Llmedia on Bullish Design</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://bullishdesignengineering.github.io/Home/projects/llmedia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bullishdesignengineering.github.io/projects/llmedia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes</title>
-      <link>https://bullishdesignengineering.github.io/Home/projects/llmedia/notes/</link>
+      <link>https://bullishdesignengineering.github.io/projects/llmedia/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bullishdesignengineering.github.io/Home/projects/llmedia/notes/</guid>
+      <guid>https://bullishdesignengineering.github.io/projects/llmedia/notes/</guid>
       <description>&lt;h1 id=&#34;llmedia&#34;&gt;LLMedia&lt;/h1&gt;&#xA;&lt;h1 id=&#34;what&#34;&gt;What:&lt;/h1&gt;&#xA;&lt;p&gt;An LLM based media operation aiming to provide an easily digestible weekly (daily?) rundown of what people ought to know.&lt;/p&gt;&#xA;&lt;p&gt;Make the entire process open and transparent, front to back, to allow input on the design of the system and let it evolve over time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ToDo</title>
-      <link>https://bullishdesignengineering.github.io/Home/projects/llmedia/tasks/</link>
+      <link>https://bullishdesignengineering.github.io/projects/llmedia/tasks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bullishdesignengineering.github.io/Home/projects/llmedia/tasks/</guid>
+      <guid>https://bullishdesignengineering.github.io/projects/llmedia/tasks/</guid>
       <description>&lt;h1 id=&#34;llmedia_tasks&#34;&gt;LLMedia_Tasks&lt;/h1&gt;&#xA;&lt;h1 id=&#34;outline&#34;&gt;Outline:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:&lt;/h1&gt;</description>
     </item>
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes_Automation on Bullish Design</title>
-    <link>https://bullishdesignengineering.github.io/Home/projects/notes_automation/</link>
+    <link>https://bullishdesignengineering.github.io/projects/notes_automation/</link>
     <description>Recent content in Notes_Automation on Bullish Design</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://bullishdesignengineering.github.io/Home/projects/notes_automation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bullishdesignengineering.github.io/projects/notes_automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes</title>
-      <link>https://bullishdesignengineering.github.io/Home/projects/notes_automation/notes/</link>
+      <link>https://bullishdesignengineering.github.io/projects/notes_automation/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bullishdesignengineering.github.io/Home/projects/notes_automation/notes/</guid>
+      <guid>https://bullishdesignengineering.github.io/projects/notes_automation/notes/</guid>
       <description>&lt;h1 id=&#34;notes_automation&#34;&gt;Notes_Automation&lt;/h1&gt;&#xA;&lt;h1 id=&#34;what&#34;&gt;What:&lt;/h1&gt;&#xA;&lt;p&gt;A streamlined llm-assisted project notes-&amp;gt; website/product page workflow.&lt;/p&gt;&#xA;&lt;h1 id=&#34;why&#34;&gt;Why:&lt;/h1&gt;&#xA;&lt;p&gt;Aiming to prevent re-work, by having my freeform thoughts and research notes automatically utilized and cleaned up into a more polished final product and posted to the web as a project portfolio.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ToDo</title>
-      <link>https://bullishdesignengineering.github.io/Home/projects/notes_automation/tasks/</link>
+      <link>https://bullishdesignengineering.github.io/projects/notes_automation/tasks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bullishdesignengineering.github.io/Home/projects/notes_automation/tasks/</guid>
+      <guid>https://bullishdesignengineering.github.io/projects/notes_automation/tasks/</guid>
       <description>&lt;h1 id=&#34;notes_automation_tasks&#34;&gt;Notes_Automation_Tasks&lt;/h1&gt;&#xA;&lt;h1 id=&#34;outline&#34;&gt;Outline:&lt;/h1&gt;&#xA;&lt;h1 id=&#34;tasks&#34;&gt;Tasks:&lt;/h1&gt;</description>
     </item>
   </channel>
