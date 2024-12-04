@@ -6,7 +6,7 @@ image: "images/projects/project-thumb-two.jpg"
 category: ["PRODUCT DESIGN"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
-
+# Title Test
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
 
 
