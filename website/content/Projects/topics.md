@@ -7,7 +7,7 @@ topic_list:
 ---
 
 # Test Image
-![images/topics-1.png]({{< ref "images/topics-1.png" >}})
+{{< figure src="images/topics-1.png"  >}}
 
 
 
