@@ -1,5 +1,5 @@
 #baseURL = "https://bullishdesignengineering.github.io/"
-baseURL = "https://www.bullishdesign.co/" 
+baseURL = "bullishdesign.co/" 
 languageCode = 'en-us'
 title = 'Bullish Design'
 theme = 'roxo-muted'
