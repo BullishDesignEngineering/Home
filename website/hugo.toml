@@ -53,8 +53,8 @@ summarylength = 25
 
   # contact form
   [params.contactform]
-    placeholder_first_name        = "first name"
-    placeholder_last_name         = "Last Name"
+    placeholder_first_name        = "Bullish"
+    placeholder_last_name         = "Design"
     placeholder_email             = "Email"
     placeholder_project_type      = "Project Type"
     placeholder_about_the_project = "About the Project"
@@ -90,10 +90,10 @@ summarylength = 25
 
   [params.portfolio]
     enable    = true
-    title     = "OUR RECENT WORKS"
+    title     = "RECENT WORK"
     subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
     view_project = "view project"
-    more_works = "MORE WORKS"
+    more_works = "MORE WORK"
     scroll_down = "scroll down"
 
   [params.call_to_action]
