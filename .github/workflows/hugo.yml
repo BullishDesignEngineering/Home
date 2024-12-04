@@ -56,7 +56,7 @@ jobs:
           cd website
           hugo \
             --minify \
-            --baseURL "https://bullishdesignengineering.github.io/Home/"
+            --baseURL "https://bullishdesignengineering.github.io/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -67,7 +67,7 @@ jobs:
     environment:
       name: github-pages
       #url: ${{ steps.deployment.outputs.page_url }}
-      url: https://bullishdesignengineering.github.io/Home/
+      url: https://bullishdesignengineering.github.io/
     runs-on: ubuntu-latest
     needs: build
     steps:
