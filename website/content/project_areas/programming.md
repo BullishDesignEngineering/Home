@@ -10,6 +10,6 @@ Lets see how this sucker works
 
 1. Then we need links [MiraGram]({{< ref "Projects/MiraGram/Notes" >}})
 2. Then images?
-	1. {{< figure src="images/programming-1.png" caption="Hugo_Range" >}}
+	1. {{< figure src="https://www.bullishdesign.co/images/programming-1.png" caption="Hugo_Range" >}}
 
 Aaaaaaand that should be it.

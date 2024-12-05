@@ -12,7 +12,7 @@
       <link>https://bullishdesign.co/projects/topics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://bullishdesign.co/projects/topics/</guid>
-      <description>&lt;h1 id=&#34;test-image&#34;&gt;Test Image&lt;/h1&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;images/topics-1.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <description>&lt;h1 id=&#34;test-image&#34;&gt;Test Image&lt;/h1&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://www.bullishdesign.co/images/topics-1.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>... Is this going to work?</title>

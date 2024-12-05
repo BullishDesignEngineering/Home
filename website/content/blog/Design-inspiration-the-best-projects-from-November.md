@@ -25,7 +25,7 @@ The company was previously known as Hingston + Co. but has been given a complete
 5. YOLO means You only live once.
 6. SMH means Shaking my head.
 
-{{< figure src="images/Design-inspiration-the-best-projects-from-November-1.png"  >}}
+{{< figure src="https://www.bullishdesign.co/images/Design-inspiration-the-best-projects-from-November-1.png"  >}}
 
 Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
 
