@@ -7,7 +7,7 @@ tags: []
 # Obsidian_Manager
 
 # What:
-
+Handles general obsidian related tasks, including parsing/copying/modifying files to the hugo repo
 
 # Why:
 
@@ -22,7 +22,8 @@ tags: []
 
 
 # Resources:
-
+- Take a look at this: https://sagar.se/notes/computers/hugo/digital-garden/publishing-obsidian-vault-with-hugo/#exporting-files
+- 
 
 # Tasks:
 

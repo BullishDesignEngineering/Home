@@ -7,7 +7,7 @@ topic_list:
 ---
 
 # Test Image
-{{< figure src="images/topics-1.png"  >}}
+{{< figure src="https://www.bullishdesign.co/images/topics-1.png"  >}}
 
 
 
