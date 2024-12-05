@@ -2,9 +2,9 @@
 title: Notes
 id: IDE
 aliases: IDE
-tags:
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # IDE
 
 # What:

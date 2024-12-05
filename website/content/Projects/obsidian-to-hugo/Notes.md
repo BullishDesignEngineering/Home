@@ -1,10 +1,9 @@
 ---
 id: Obsidian-To-Hugo
-aliases:
-  - Obsidian-To-Hugo
-tags: []
+aliases: Obsidian-To-Hugo
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # Obsidian-To-Hugo
 
 # What:
@@ -32,7 +31,3 @@ tags: []
 
 
 # Log:
-
-
-
-

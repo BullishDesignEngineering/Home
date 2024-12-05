@@ -2,9 +2,9 @@
 title: Notes
 id: TUI_DB
 aliases: TUI_DB
-tags:
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # TUI_DB
 
 # What:

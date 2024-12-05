@@ -2,9 +2,9 @@
 title: ToDo
 id: MiraGram_Tasks
 aliases: MiraGram_Tasks
-tags:
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # MiraGram_Tasks
 
 # Outline:

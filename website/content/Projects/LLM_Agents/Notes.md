@@ -2,9 +2,9 @@
 title: Notes
 id: LLM_Agents
 aliases: LLM_Agents
-tags:
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # LLM_Agents
 
 # What:

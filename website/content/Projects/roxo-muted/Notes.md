@@ -1,10 +1,9 @@
 ---
 id: Roxo-Muted
-aliases:
-  - Roxo-Muted
-tags: []
+aliases: Roxo-Muted
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # Roxo-Muted
 
 # What:
@@ -32,7 +31,3 @@ tags: []
 
 
 # Log:
-
-
-
-

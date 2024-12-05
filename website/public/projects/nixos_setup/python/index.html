@@ -66,7 +66,7 @@
          
           
           <li class="nav-item">
-            <a class="nav-link" href="https://bullishdesign.co/projects"
+            <a class="nav-link" href="https://bullishdesign.co/project_areas"
               >Projects</a
             >
           </li>
@@ -100,6 +100,141 @@
   </div>
 </nav>
 <main>
+
+<section class="site-project-single-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <div class="site-project-single">
+          <h1>
+            Python
+          </h1>
+          <div class="site-project-single-description">
+            <h1 id="about">About</h1>
+<p>IDE Setup: <a href="obsidian://open?vault=Notes&amp;file=Neovim">Python IDE Setup</a></p>
+<p><a href="#nixos-dev-environments">#NixOS Dev Environments</a></p>
+<h2 id="devenv">devenv</h2>
+<h3 id="resources">Resources:</h3>
+<ul>
+<li><a href="https://devenv.sh/basics/">https://devenv.sh/basics/</a></li>
+<li><a href="https://www.youtube.com/watch?v=unW1zk8terk">https://www.youtube.com/watch?v=unW1zk8terk</a></li>
+<li><a href="https://youtu.be/wPp2DJJpCAg?si=iued20K3u6ZAqI1W">https://youtu.be/wPp2DJJpCAg?si=iued20K3u6ZAqI1W</a></li>
+<li>Web example: <a href="https://github.com/cachix/devenv/tree/main/examples%2Ffly.io">https://github.com/cachix/devenv/tree/main/examples%2Ffly.io</a></li>
+<li></li>
+</ul>
+<h3 id="notes">Notes:</h3>
+<ul>
+<li>Don&rsquo;t have spaces in directories (parent or current)
+<ul>
+<li>Fucks with NixOS
+<ul>
+<li><a href="https://github.com/cachix/devenv/issues/1307#issuecomment-2202644992">https://github.com/cachix/devenv/issues/1307#issuecomment-2202644992</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li></li>
+</ul>
+<h2 id="thoughts-on-a-structure-for-new-project-creation">Thoughts on a structure for new project creation:</h2>
+<p>Have a script that generates python devenv folder and structure, and imports standard framework/tooling.</p>
+<h3 id="standard-setup-script-needs">Standard Setup (Script needs):</h3>
+<ul>
+<li>Create folder</li>
+<li>Create devenv
+<ul>
+<li>Create env</li>
+<li>Use UV</li>
+<li>Use Ruff</li>
+<li>Use Mypi</li>
+<li>Import standard personal library
+<ul>
+<li>Data import</li>
+<li>Data Analysis</li>
+<li>File management + manipulation</li>
+<li></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Create Git Repo (private)</li>
+<li>Push to repo with standard initial commit</li>
+</ul>
+<h3 id="standard-devenv-scripts">Standard devenv scripts:</h3>
+<ul>
+<li>Save all and commit
+<ul>
+<li>With comment</li>
+</ul>
+</li>
+<li>Push to git repo</li>
+<li>Run Script
+<ul>
+<li>Different scripts, including standard personal library</li>
+</ul>
+</li>
+<li>Run app</li>
+</ul>
+<h2 id="notes-1">Notes:</h2>
+<h3 id="to-run-scripts">To run scripts:</h3>
+<p>Just put a &ldquo;scripts.ScriptName.exec = &ldquo;python path/to/script/file.py&rdquo;&rdquo; in the devenv.nix file</p>
+
+          </div>
+          <div class="site-project-single-image">
+            
+          </div>
+          
+          <div class="site-project-single-action">
+            <a href="https://bullishdesign.co/projects/nixos_setup/obsidian/">
+              <span class="link-area">
+                <span data-text="Next Project">
+                  Next Project
+                </span>
+              </span>
+              <img src="https://bullishdesign.co/images/to-top.svg" alt="next project">
+            </a>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+  
+  <section class="site-cta" style='background-image: url("https://bullishdesign.co/images/backgrounds/cta-background.jpg");'>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h1 class="site-cta-title">LET’S WORK TOGETHER</h1>
+          <ul class="site-cta-buttons">
+            <li>
+              <a href="https://bullishdesign.co/contact" class="btn btn-secondary">
+                <span class="btn-area">
+                  <span data-text="Submit Query">
+                    Submit Query
+                  </span>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a href="https://bullishdesign.co/portfolio" class="btn btn-primary">
+                <span class="btn-area">
+                  <span data-text="Not Convinced">
+                    Not Convinced
+                  </span>
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+
+
+
         </main><footer class="site-footer">
   <div class="container">
     <div class="row">

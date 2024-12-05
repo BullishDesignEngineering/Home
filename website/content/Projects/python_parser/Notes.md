@@ -1,9 +1,9 @@
 ---
 id: Python_Parser
 aliases: Python_Parser
-tags: []
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # Python_Parser
 
 # What:

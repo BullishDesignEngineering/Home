@@ -1,5 +1,6 @@
 ---
 title: Systems
+category: PROJECT_NOTES
 ---
 # Computing Setup
 Declarative nixOS computing environment, with config files stored in git repository, able to be quickly installed on any system (wsl or linux) for a consistently productive environment.

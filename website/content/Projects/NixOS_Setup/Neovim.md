@@ -1,5 +1,6 @@
 ---
 title: Neovi
+category: PROJECT_NOTES
 ---
 #Programming , #IDE, #PDE
 

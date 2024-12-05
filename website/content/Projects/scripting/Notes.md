@@ -2,9 +2,9 @@
 title: Notes
 id: Scripting
 aliases: Scripting
-tags:
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # Scripting
 
 # What:

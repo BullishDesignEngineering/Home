@@ -1,7 +1,7 @@
 ---
 title: Programming
+category: PROJECT_NOTES
 ---
-
 # Goal: 
 Streamlined understanding of how to code. Minimal overhead (only a few languages), maximum effectiveness.
 

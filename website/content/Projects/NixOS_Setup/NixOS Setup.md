@@ -1,5 +1,6 @@
 ---
 title: NixOS Setup
+category: PROJECT_NOTES
 ---
 # [NixOS]({{< ref "NixOS" >}})
 Notes and config files for a fresh NixOS install

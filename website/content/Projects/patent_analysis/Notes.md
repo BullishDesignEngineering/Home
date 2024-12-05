@@ -2,9 +2,9 @@
 title: Notes
 id: Notes
 aliases: Notes
-tags:
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # Patent Analysis
 
 # What:

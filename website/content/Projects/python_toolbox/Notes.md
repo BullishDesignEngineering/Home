@@ -2,9 +2,9 @@
 title: Notes
 id: Python_Toolbox
 aliases: Python_Toolbox
-tags:
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # Python_Toolbox
 
 # What:

@@ -68,19 +68,9 @@
   </url><url>
     <loc>https://bullishdesign.co/projects/topics/</loc>
   </url><url>
-    <loc>https://bullishdesign.co/templates/do/</loc>
+    <loc>https://bullishdesign.co/projects/test-project/</loc>
   </url><url>
-    <loc>https://bullishdesign.co/templates/learn/</loc>
-  </url><url>
-    <loc>https://bullishdesign.co/templates/plan/</loc>
-  </url><url>
-    <loc>https://bullishdesign.co/templates/publish_code/</loc>
-  </url><url>
-    <loc>https://bullishdesign.co/templates/publish_product/</loc>
-  </url><url>
-    <loc>https://bullishdesign.co/templates/try/</loc>
-  </url><url>
-    <loc>https://bullishdesign.co/templates/publish_blog/</loc>
+    <loc>https://bullishdesign.co/project_areas/ai/</loc>
   </url><url>
     <loc>https://bullishdesign.co/projects/auto_pde/</loc>
   </url><url>
@@ -91,6 +81,8 @@
     <loc>https://bullishdesign.co/projects/fantasy_football/</loc>
   </url><url>
     <loc>https://bullishdesign.co/projects/ide/</loc>
+  </url><url>
+    <loc>https://bullishdesign.co/images/</loc>
   </url><url>
     <loc>https://bullishdesign.co/projects/nixos_setup/kitty/</loc>
   </url><url>
@@ -146,13 +138,25 @@
   </url><url>
     <loc>https://bullishdesign.co/projects/obsidian_manager/</loc>
   </url><url>
+    <loc>https://bullishdesign.co/projects/obsidian-to-hugo/</loc>
+  </url><url>
+    <loc>https://bullishdesign.co/project_areas/</loc>
+  </url><url>
+    <loc>https://bullishdesign.co/projects/</loc>
+  </url><url>
     <loc>https://bullishdesign.co/projects/patent_analysis/</loc>
+  </url><url>
+    <loc>https://bullishdesign.co/project_areas/process_automation/</loc>
+  </url><url>
+    <loc>https://bullishdesign.co/project_areas/product_design/</loc>
+  </url><url>
+    <loc>https://bullishdesign.co/project_areas/programming/</loc>
   </url><url>
     <loc>https://bullishdesign.co/projects/programming/</loc>
   </url><url>
     <loc>https://bullishdesign.co/projects/programming/programming/</loc>
   </url><url>
-    <loc>https://bullishdesign.co/projects/</loc>
+    <loc>https://bullishdesign.co/projects/projects/</loc>
   </url><url>
     <loc>https://bullishdesign.co/projects/nixos_setup/python/</loc>
   </url><url>
@@ -161,6 +165,8 @@
     <loc>https://bullishdesign.co/projects/python_parser/</loc>
   </url><url>
     <loc>https://bullishdesign.co/projects/python_toolbox/</loc>
+  </url><url>
+    <loc>https://bullishdesign.co/projects/roxo-muted/</loc>
   </url><url>
     <loc>https://bullishdesign.co/projects/scripting/</loc>
   </url><url>
@@ -171,8 +177,6 @@
     <loc>https://bullishdesign.co/tags/</loc>
   </url><url>
     <loc>https://bullishdesign.co/projects/telegram_agent/</loc>
-  </url><url>
-    <loc>https://bullishdesign.co/templates/</loc>
   </url><url>
     <loc>https://bullishdesign.co/projects/nixos_setup/tmux/</loc>
   </url><url>

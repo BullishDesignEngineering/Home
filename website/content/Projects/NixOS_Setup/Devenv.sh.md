@@ -1,5 +1,6 @@
 ---
 title: Devenv.sh
+category: PROJECT_NOTES
 ---
 # About
 Using Devenv.sh to set up python development environments. 

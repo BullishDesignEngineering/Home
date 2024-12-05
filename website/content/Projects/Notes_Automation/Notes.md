@@ -2,9 +2,9 @@
 title: Notes
 id: Notes_Automation
 aliases: Notes_Automation
-tags:
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # Notes_Automation
 
 # What:

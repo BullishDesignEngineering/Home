@@ -1,9 +1,9 @@
 ---
 id: Obsidian_Manager_Tasks
 aliases: Obsidian_Manager_Tasks
-tags: []
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # Obsidian_Manager_Tasks
 
 # Outline:

@@ -2,9 +2,9 @@
 title: ToDo
 id: Scripting_Tasks
 aliases: Scripting_Tasks
-tags:
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # Scripting_Tasks
 
 # Outline:

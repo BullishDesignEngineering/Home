@@ -1,5 +1,6 @@
 ---
 title: Python
+category: PROJECT_NOTES
 ---
 # About
 IDE Setup: [Python IDE Setup](obsidian://open?vault=Notes&file=Neovim)

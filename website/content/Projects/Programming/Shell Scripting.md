@@ -1,5 +1,6 @@
 ---
 title: Shell Scripting
+category: PROJECT_NOTES
 ---
 # What is it?
 A shell is a program that runs a coding language (called bash) in the terminal. Bash is the same language used at the command line, shell scripting just allows you to chain longer commands together in one go. Multiple shell instances can be run in one terminal, allowing some amount of multitasking/background processing.

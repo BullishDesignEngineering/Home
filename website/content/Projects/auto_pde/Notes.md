@@ -2,9 +2,9 @@
 title: Notes
 id: Auto_Pde
 aliases: Auto_Pde
-tags:
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # Auto_Pde
 
 # What:

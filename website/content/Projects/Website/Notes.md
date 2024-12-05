@@ -2,9 +2,9 @@
 title: Notes
 id: Website
 aliases: Website
-tags:
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # Website
 
 # What:
@@ -26,6 +26,8 @@ tags:
 
 
 # Tasks:
-
+- [ ] Backlinks 
+	- Up top? (Linked from: )
+	- At bottom?
 
 # Log:

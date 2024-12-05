@@ -2,9 +2,9 @@
 title: ToDo
 id: LLM_Agents_Tasks
 aliases: LLM_Agents_Tasks
-tags:
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # LLM_Agents_Tasks
 
 # Outline:

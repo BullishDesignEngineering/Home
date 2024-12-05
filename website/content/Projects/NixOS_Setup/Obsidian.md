@@ -1,5 +1,6 @@
 ---
 title: Obsidian
+category: PROJECT_NOTES
 ---
 # What is it?
 Linked notes

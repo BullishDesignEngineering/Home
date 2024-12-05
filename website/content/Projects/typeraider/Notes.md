@@ -2,9 +2,9 @@
 title: Notes
 id: Typeraider
 aliases: Typeraider
-tags:
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # Typeraider
 
 # What:

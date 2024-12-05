@@ -16,7 +16,7 @@ Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. 
 5. YOLO means You only live once.
 6. SMH means Shaking my head.
 
-{{< figure src="https://www.bullishdesign.co/images/Design-inspiration-the-best-projects-from-December-1.png"  >}}
+{{< figure src="images/Design-inspiration-the-best-projects-from-December-1.png"  >}}
 
 The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
 

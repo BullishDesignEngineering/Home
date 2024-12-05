@@ -2,9 +2,9 @@
 title: ToDo
 id: ToDo
 aliases: ToDo
-tags:
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # Tasks
 
 # Outline:

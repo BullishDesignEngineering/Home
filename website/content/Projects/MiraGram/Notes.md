@@ -2,9 +2,9 @@
 title: Notes
 id: MiraGram
 aliases: MiraGram
-tags:
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # MiraGram
 
 # What:

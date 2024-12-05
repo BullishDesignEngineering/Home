@@ -66,7 +66,7 @@
          
           
           <li class="nav-item">
-            <a class="nav-link" href="https://bullishdesign.co/projects"
+            <a class="nav-link" href="https://bullishdesign.co/project_areas"
               >Projects</a
             >
           </li>
@@ -100,6 +100,236 @@
   </div>
 </nav>
 <main>
+
+<section class="site-project-single-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <div class="site-project-single">
+          <h1>
+            Neovi
+          </h1>
+          <div class="site-project-single-description">
+            <p>#Programming , #IDE, #PDE</p>
+<h1 id="about">About</h1>
+<p>A text editor. Modular enough to turn into a full IDE.</p>
+<h1 id="pythonhahahugoshortcode46s0hbhb-ide-setup"><a href="https://bullishdesign.co/projects/nixos_setup/python/">Python</a> IDE Setup</h1>
+<p>Reference Links:</p>
+<ul>
+<li><a href="https://www.playfulpython.com/configuring-neovim-as-a-python-ide/">https://www.playfulpython.com/configuring-neovim-as-a-python-ide/</a></li>
+</ul>
+<h2 id="notes">Notes:</h2>
+<ul>
+<li>Vim tmux navigator: <a href="https://www.youtube.com/watch?v=qyV_hOtMdwg">https://www.youtube.com/watch?v=qyV_hOtMdwg</a></li>
+</ul>
+<h1 id="tutor">Tutor</h1>
+<h2 id="questions">Questions:</h2>
+<ul>
+<li>How to unselect after &ldquo;substitute&rdquo;?</li>
+<li>Need to figure out what &ldquo;Text Objects&rdquo; are?</li>
+<li>How to group multiple lines in nix for ease of reading multi-line settings?</li>
+</ul>
+<h2 id="notes-1">Notes:</h2>
+<ul>
+<li>Acronyms for all &ldquo;Normal&rdquo; key leaders?
+<ul>
+<li>s = Substitute</li>
+<li>d = Delete</li>
+<li>/ = search</li>
+<li>g = go (current)</li>
+<li>G = go to line</li>
+<li>c = change</li>
+<li>r = replace</li>
+</ul>
+</li>
+</ul>
+<h1 id="keymaps">Keymaps:</h1>
+<h2 id="thoughts">Thoughts:</h2>
+<ul>
+<li>A sidebar that serves as an access point for various tasks, toggle with space-tab
+<ul>
+<li>file explorer (e)</li>
+<li>undo tree (u)</li>
+<li>buffer/tab navigation shortcuts (b)</li>
+<li>script list (s)</li>
+<li>Obsidian (n)</li>
+</ul>
+</li>
+<li>Other leader groups:
+<ul>
+<li>Terminal popup (t - terminal)</li>
+<li>Search/find (s - search)</li>
+<li>Telescope (f - find)</li>
+<li>git (g - git)</li>
+<li>code (c - code)
+<ul>
+<li>debug</li>
+<li>format</li>
+<li>etc</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><em><strong>Orrr&hellip;&hellip; Just use space+tab as a leader for all &ldquo;sidebar&rdquo; related things, without calling the sidebar first?</strong></em></li>
+</ul>
+<h2 id="plan">Plan:</h2>
+<ol>
+<li>Leverage mini.nvim as much as possible.
+<ol>
+<li><input checked="" disabled="" type="checkbox"> Replace Which-key with mini.clue
+<ol>
+<li><input disabled="" type="checkbox"> Rebuild Keymaps
+<ol>
+<li><input disabled="" type="checkbox"> Tab (navigation)
+<ol>
+<li><input disabled="" type="checkbox"> Change Tmux Layout</li>
+<li><input disabled="" type="checkbox"> Change Tmux Pane</li>
+<li><input disabled="" type="checkbox"> Switch buffer</li>
+<li><input disabled="" type="checkbox"> new buffer</li>
+</ol>
+</li>
+<li><input disabled="" type="checkbox"> File (mini.files)</li>
+<li><input disabled="" type="checkbox"> Telescope</li>
+<li><input disabled="" type="checkbox"> Search
+<ol>
+<li><input disabled="" type="checkbox"> In buffer</li>
+<li><input disabled="" type="checkbox"> In active buffers</li>
+<li><input disabled="" type="checkbox"> In recent buffers</li>
+<li><input disabled="" type="checkbox"> In project</li>
+</ol>
+</li>
+<li><input disabled="" type="checkbox"> git</li>
+<li><input disabled="" type="checkbox"> code</li>
+<li><input disabled="" type="checkbox"> Obsidian</li>
+<li><input disabled="" type="checkbox"> Script drawer
+<ol>
+<li><input disabled="" type="checkbox"> Change per project?</li>
+<li><input disabled="" type="checkbox"> Tie into direnv?</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+</li>
+<li><input checked="" disabled="" type="checkbox"> Replace NeoTree with mini.files
+<ol>
+<li><input checked="" disabled="" type="checkbox"> Create keymap</li>
+</ol>
+</li>
+<li><input disabled="" type="checkbox"> Clean up mini folder structure and code formatting
+<ol>
+<li><input checked="" disabled="" type="checkbox"> Consistent format, not the &ldquo;empty = null&rdquo; bullshit</li>
+<li><input disabled="" type="checkbox"> </li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Set up Obsidian
+<ol>
+<li><input disabled="" type="checkbox"> Set up connection to main &ldquo;Notes&rdquo; folder</li>
+<li><input disabled="" type="checkbox"> Figure out symlinks to project folders</li>
+</ol>
+</li>
+<li>Set up Tmux navigation (with TmuxP?)
+<ol>
+<li><input disabled="" type="checkbox"> New pane</li>
+<li><input disabled="" type="checkbox"> Switch panes
+<ol>
+<li><input disabled="" type="checkbox"> From within Neovim, too</li>
+</ol>
+</li>
+<li><input disabled="" type="checkbox"> Move pane?</li>
+<li><input disabled="" type="checkbox"> Resize pane?</li>
+</ol>
+</li>
+<li>Figure out clipboard
+<ol>
+<li><input disabled="" type="checkbox"> &ldquo;No clipboard provider&rdquo;</li>
+<li><input disabled="" type="checkbox"> </li>
+</ol>
+</li>
+</ol>
+<h1 id="plugins">Plugins:</h1>
+<h2 id="which-key">Which-Key:</h2>
+<h3 id="what-is-it">What is it?</h3>
+<p>An Nvim plugin for managing keymaps.</p>
+<h3 id="resources">Resources:</h3>
+<ul>
+<li><a href="https://github.com/folke/which-key.nvim">https://github.com/folke/which-key.nvim</a></li>
+<li>Potential Tmux version: <a href="https://github.com/alexwforsythe/tmux-which-key">https://github.com/alexwforsythe/tmux-which-key</a></li>
+<li></li>
+</ul>
+<h3 id="questions-1">Questions:</h3>
+<ul>
+<li>How to integrate with tmux? Possible?
+<ul>
+<li>investigate: <a href="https://github.com/alexwforsythe/tmux-which-key">https://github.com/alexwforsythe/tmux-which-key</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="todo">Todo:</h3>
+<ul>
+<li><input disabled="" type="checkbox"> Dig up all existing nvim shortcuts, consolidate into which-key</li>
+<li><input disabled="" type="checkbox"> </li>
+</ul>
+
+          </div>
+          <div class="site-project-single-image">
+            
+          </div>
+          
+          <div class="site-project-single-action">
+            <a href="https://bullishdesign.co/projects/nixos_setup/kitty/">
+              <span class="link-area">
+                <span data-text="Next Project">
+                  Next Project
+                </span>
+              </span>
+              <img src="https://bullishdesign.co/images/to-top.svg" alt="next project">
+            </a>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+  
+  <section class="site-cta" style='background-image: url("https://bullishdesign.co/images/backgrounds/cta-background.jpg");'>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h1 class="site-cta-title">LET’S WORK TOGETHER</h1>
+          <ul class="site-cta-buttons">
+            <li>
+              <a href="https://bullishdesign.co/contact" class="btn btn-secondary">
+                <span class="btn-area">
+                  <span data-text="Submit Query">
+                    Submit Query
+                  </span>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a href="https://bullishdesign.co/portfolio" class="btn btn-primary">
+                <span class="btn-area">
+                  <span data-text="Not Convinced">
+                    Not Convinced
+                  </span>
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+
+
+
         </main><footer class="site-footer">
   <div class="container">
     <div class="row">

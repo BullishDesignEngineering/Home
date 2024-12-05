@@ -1,5 +1,6 @@
 ---
 title: Tmux
+category: PROJECT_NOTES
 ---
 #Programming 
 

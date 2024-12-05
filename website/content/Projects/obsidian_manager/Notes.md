@@ -1,9 +1,9 @@
 ---
 id: Obsidian_Manager
 aliases: Obsidian_Manager
-tags: []
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # Obsidian_Manager
 
 # What:

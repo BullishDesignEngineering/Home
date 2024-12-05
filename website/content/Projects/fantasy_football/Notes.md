@@ -2,9 +2,9 @@
 title: Notes
 id: Fantasy_Football
 aliases: Fantasy_Football
-tags:
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # Fantasy_Football
 
 # What:

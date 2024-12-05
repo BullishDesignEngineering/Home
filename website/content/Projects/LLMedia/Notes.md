@@ -2,9 +2,9 @@
 title: Notes
 id: LLMedia
 aliases: LLMedia
-tags:
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # LLMedia
 
 # What:
