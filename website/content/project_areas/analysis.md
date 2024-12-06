@@ -3,7 +3,7 @@ title: Analysis
 image: images/topics-1.png
 category:
   - BUSINESS
-priority: "3"
+priority: "1"
 ---
 ### Test title
 Lets see how this sucker works
