@@ -1,8 +1,9 @@
 ---
-title: Programming
+title: Analysis
 image: images/topics-1.png
 category:
-  - CODE
+  - BUSINESS
+priority: "3"
 ---
 ### Test title
 Lets see how this sucker works
