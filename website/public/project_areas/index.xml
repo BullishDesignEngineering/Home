@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="https://bullishdesign.co/project_areas/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Analysis</title>
+      <link>https://bullishdesign.co/project_areas/analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bullishdesign.co/project_areas/analysis/</guid>
+      <description>&lt;h3 id=&#34;test-title&#34;&gt;Test title&lt;/h3&gt;&#xA;&lt;p&gt;Lets see how this sucker works&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hopefully we have content&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Then we need links &lt;a href=&#34;https://bullishdesign.co/projects/miragram/notes/&#34;&gt;MiraGram&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Then images?&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;figure&gt;&lt;img src=&#34;https://www.bullishdesign.co/images/programming-1.png&#34;&#xA;    alt=&#34;Hugo_Range&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Hugo_Range&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Aaaaaaand that should be it.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Artificial Intelligence</title>
       <link>https://bullishdesign.co/project_areas/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -15,10 +22,10 @@
       <description></description>
     </item>
     <item>
-      <title>Process Automation</title>
-      <link>https://bullishdesign.co/project_areas/process_automation/</link>
+      <title>Process Improvement</title>
+      <link>https://bullishdesign.co/project_areas/process_improvement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bullishdesign.co/project_areas/process_automation/</guid>
+      <guid>https://bullishdesign.co/project_areas/process_improvement/</guid>
       <description></description>
     </item>
     <item>
@@ -27,13 +34,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://bullishdesign.co/project_areas/product_design/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Programming</title>
-      <link>https://bullishdesign.co/project_areas/programming/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bullishdesign.co/project_areas/programming/</guid>
-      <description>&lt;h3 id=&#34;test-title&#34;&gt;Test title&lt;/h3&gt;&#xA;&lt;p&gt;Lets see how this sucker works&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hopefully we have content&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Then we need links &lt;a href=&#34;https://bullishdesign.co/projects/miragram/notes/&#34;&gt;MiraGram&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Then images?&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;figure&gt;&lt;img src=&#34;https://www.bullishdesign.co/images/programming-1.png&#34;&#xA;    alt=&#34;Hugo_Range&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Hugo_Range&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Aaaaaaand that should be it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

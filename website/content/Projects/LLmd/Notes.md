@@ -1,10 +1,9 @@
 ---
 id: LLmd
-aliases:
-  - LLmd
-tags: []
+aliases: LLmd
+tags: [  ]
+category: PROJECT_NOTES
 ---
-
 # LLmd
 
 # What:
@@ -41,7 +40,3 @@ To use obsidian as a method of easily creating and extending an LLM assistant.
 
 
 # Log:
-
-
-
-
