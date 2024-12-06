@@ -4351,6 +4351,14 @@ input[type=submit].btn-block {
     white-space: normal; /*nowrap*/
 }
 
+/* Logo image styling */
+.navbar-brand img {
+  height: 40px; /* Adjust based on your logo size */
+  width: auto;
+  /*margin-right: 10px;*/
+}
+
+
 .navbar-brand:focus,
 .navbar-brand:hover {
     text-decoration: none
@@ -9982,7 +9990,7 @@ a.text-dark:hover {
 .business-name {
   font-weight: bold;
   color: black;
-  font-size: 2.75rem; /* Adjust size as needed */
+  font-size: clamp(1.5rem, 5vw, 2.75rem); /* Responsive font size */
   margin-left: 10px; /* Space between logo and text */
   display: inline-flex;
   align-items: center ;
