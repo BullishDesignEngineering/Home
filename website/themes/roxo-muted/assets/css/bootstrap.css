@@ -4345,10 +4345,10 @@ input[type=submit].btn-block {
     display: inline-block;
     padding-top: .3125rem;
     padding-bottom: .3125rem;
-    margin-right: 1rem;
+    margin-right: 0; /*1rem;*/
     font-size: 1.25rem;
     line-height: inherit;
-    white-space: nowrap
+    white-space: normal; /*nowrap*/
 }
 
 .navbar-brand:focus,
@@ -4475,6 +4475,24 @@ input[type=submit].btn-block {
         padding-right: 0;
         padding-left: 0
     }
+
+    .business-name {
+        font-size: 1.75rem; /* Smaller font size on mobile */
+      }
+      
+    .navbar-brand {
+        max-width: 75%; /* Prevent brand from taking full width */
+      }
+      
+    .navbar-nav {
+        width: 100%; /* Full width on mobile */
+        margin-top: 0.5rem;
+      }
+      
+    .navbar-toggler {
+        padding: 0.25rem 0.5rem;
+        font-size: 1rem;
+      }
 }
 
 @media (min-width:768px) {
