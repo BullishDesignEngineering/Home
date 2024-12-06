@@ -9969,6 +9969,7 @@ a.text-dark:hover {
   display: inline-flex;
   align-items: center ;
   vertical-align: middle;
+  flex-wrap: wrap;
 }
 
 .background-box {
