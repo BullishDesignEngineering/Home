@@ -4380,8 +4380,10 @@ input[type=submit].btn-block {
 }
 
 .navbar-nav .dropdown-menu {
-    position: static;
-    float: none
+    /* position: static;
+    float: none */
+    position: relative;
+    display: inline-block
 }
 
 .navbar-text {
