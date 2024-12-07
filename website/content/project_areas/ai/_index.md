@@ -5,4 +5,5 @@ category:
   - AI
 priority: c
 description: Test Description
+layout: list
 ---

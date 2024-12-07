@@ -4,4 +4,5 @@ image: images/topics-1.png
 category:
   - AUTOMATION
 priority: b
+layout: list
 ---

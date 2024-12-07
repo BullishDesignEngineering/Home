@@ -4,6 +4,8 @@ image: images/topics-1.png
 category:
   - BUSINESS
 priority: d
+layout: list
+description: This page should have a ton of content info on it
 ---
 ### Test title
 Lets see how this sucker works
