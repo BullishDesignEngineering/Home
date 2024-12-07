@@ -1,3 +1,7 @@
 ---
-title: process_improvement
+title: Process Improvement
+image: images/topics-1.png
+category:
+  - AUTOMATION
+priority: b
 ---
