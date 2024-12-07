@@ -1,42 +1,44 @@
 {{ define "main" }}
 
-<section class="site-blog-header">
+<section class="site-project-header">
   <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-8 text-center">
-        <h1>{{ .Title }}</h1>
-        <p>
-          {{ .Params.description }}
-        </p>
+    <div class="row align-items-center">
+      <div class="col-lg-8">
+        <div class="site-project-header-content">
+          <h1>{{ .Title | safeHTML }}</h1>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <a href="#project" class="site-project-header-action scroll-to">
+          <span>{{ .Site.Params.portfolio.scroll_down }}</span>
+          <img src="{{ "images/arrow-down.svg" | absURL }}" alt="arrow-down">
+        </a>
       </div>
     </div>
   </div>
 </section>
 
-<section class="site-blog">
+<section class="site-project" id="project">
   <div class="container">
     <div class="row">
-      {{ range (.Paginator 4).Pages }}
-      <div class="col-lg-6">
-        <article class="site-blog-post">
-          {{ with .Params.image }}
-          <div class="site-blog-post-thumb">
-            <img src="{{ . | absURL }}" alt="post-thumb">
+      {{ range .Sections.ByParam "priority" }}
+      <div class="col-lg-6 col-md-10 mx-auto">
+        <div class="site-project-item">
+          <div class="site-project-item-thumb">
+            {{ with .Params.Image }}
+            <img src="{{ . | absURL }}" alt="project-thumb">
+            {{ end }}
           </div>
-          {{ end }}
-          <div class="site-blog-post-content">
-            <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
-            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-            <p>
-              {{ .Summary }} ...
-            </p>
-            <a href="{{ .Permalink }}" class="read-more">{{ .Site.Params.blog.read_more }}</a>
+          <div class="site-project-item-content">
+            {{/*  <span>{{ delimit .Params.category ", " }}</span>  */}}
+            <h3>{{ .Title }}</h3>
+            <a href="{{ .Permalink }}" class="read-more">{{ .Site.Params.portfolio.view_project }}</a>
           </div>
-        </article>
+        </div>
       </div>
       {{ end }}
       <div class="col-12">
-        <div class="site-blog-pagination">
+        <div class="site-project-pagination">
           {{ template "_internal/pagination.html" . }}
         </div>
       </div>
@@ -45,5 +47,4 @@
 </section>
 
 {{ partial "call-to-action.html" . }}
-
 {{ end }}
