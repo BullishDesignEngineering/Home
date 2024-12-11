@@ -2,13 +2,21 @@ enable : true
 heading : "PRODUCT DEVELOPMENT AT THE SPEED OF THOUGHT"
 counter_item: 
   - title: "ECO Reviews"
-    number: "Days -> Hours"
+    before: "Days"
+    operator: &#8594
+    after: "Hours"
+    #number: "Days &#8594 Hours"
 
   - title: "Competitor Research"
-    number: "Days -> Minutes"
+    before: "Days"
+    operator: &#8594
+    after: "Minutes"
 
   - title: "BOM Updates"
-    number: "Hours -> Seconds"
+    before: "Hours"
+    operator: &#8594
+    after: "Seconds"
+
 
   #- title: "Telephone Talks"
     #  number: "775"
