@@ -16,3 +16,11 @@ Lets see how this sucker works
 	1. {{< figure src="https://www.bullishdesign.co/images/programming-1.png" caption="Hugo_Range" >}}
 
 Aaaaaaand that should be it.
+
+## Code Block Test:
+```css
+.figure {
+	display: inline-block;
+	line-height: 1
+}
+```

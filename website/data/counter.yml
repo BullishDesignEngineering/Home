@@ -1,14 +1,14 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "PRODUCT DEVELOPMENT AT THE SPEED OF THOUGHT"
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
+  - title: "ECO Reviews"
+    number: "Days -> Hours"
 
-  - title: "Projects Completed"
-    number: "100"
+  - title: "Competitor Research"
+    number: "Days -> Minutes"
 
-  - title: "Cups of coffee"
-    number: "350"
+  - title: "BOM Updates"
+    number: "Hours -> Seconds"
 
-  - title: "Telephone Talks"
-    number: "775"
+  #- title: "Telephone Talks"
+    #  number: "775"
