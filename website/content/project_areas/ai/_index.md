@@ -4,6 +4,6 @@ image: images/topics-1.png
 category:
   - AI
 priority: c
-description: Test Description
 layout: list
+description: PUBLICLY AVAILABLE DETAILS COMING SOON
 ---

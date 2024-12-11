@@ -5,7 +5,7 @@ category:
   - BUSINESS
 priority: d
 layout: list
-description: This page should have a ton of content info on it
+description: PUBLICLY AVAILABLE DETAILS COMING SOON
 ---
 ### Test title
 Lets see how this sucker works
