@@ -100,6 +100,240 @@
   </div>
 </nav>
 <main>
+
+<section class="site-project-single-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <div class="site-project-single">
+          <h1>
+            Notes
+          </h1>
+          <div class="site-project-single-description">
+            <h1 id="auto_pde">Auto_Pde</h1>
+<h1 id="what">What:</h1>
+<p>A completely streamlined product development environment. Starts off with a scaffold for a physical product (general dimensions/specs/requirements) that interoperates with CAD to create scaffolds of parts and assemblies. Updating the CAD updates the scaffold and vise versa.</p>
+<h1 id="why">Why:</h1>
+<p>Enable my solo consultancy plan.</p>
+<h1 id="goals">Goals:</h1>
+<p>Sit down with someone for an hour on a Friday, go through their product idea, do some sketches and Shapr3D CAD designs, and by Monday have:</p>
+<ul>
+<li>Full product renders, ideally in 3d environments
+<ul>
+<li>Ideally also with AR or VR integration</li>
+</ul>
+</li>
+<li>Full 3d parametric CAD files</li>
+<li>Full 2d drawing package for overalls and for each part and subassembly</li>
+<li>Full exports for prototypes:
+<ul>
+<li>STEP</li>
+<li>DXF</li>
+<li>STL</li>
+</ul>
+</li>
+<li>Full quote package with preliminary prototype quotes</li>
+<li>Full test package with a list of what configurations are needed of each product for each test.</li>
+</ul>
+<h1 id="my-questions">My Questions:</h1>
+<h1 id="outline">Outline:</h1>
+<p>For each:</p>
+<ul>
+<li>Read (Get)</li>
+<li>Update/Create (Post)</li>
+<li>Delete</li>
+</ul>
+<h2 id="onshape-api-connection">Onshape API connection:</h2>
+<ul>
+<li>
+<p><input checked="" disabled="" type="checkbox"> Connect to Onshape API</p>
+<ul>
+<li>NOTE: use standard onshape-public version, add logging output functionality based of robot example.</li>
+</ul>
+</li>
+<li>
+<p><input checked="" disabled="" type="checkbox"> Save return output to file</p>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> Compare Onshape item to DB Item</p>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> Update Onshape from DB data</p>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> Parse feature (general info) to db</p>
+<ul>
+<li><input disabled="" type="checkbox"> Add feature position during parse</li>
+<li><input disabled="" type="checkbox"> Translate featureID &lt;-&gt; ID value
+<ul>
+<li><input disabled="" type="checkbox"> Flexible conversion function, use for JSON name &lt;-&gt; snake case field conversion as well.</li>
+<li><input disabled="" type="checkbox"> Enum as subclass of the particular OSModel class for conversion? Then reversible function for opposite direction.</li>
+<li><input disabled="" type="checkbox"> Generic function in the main OSModel class that works for parsing from JSON response.</li>
+<li><input disabled="" type="checkbox"> Different generic function that works for parsing from DB to REST JSON structure using the child model&rsquo;s enum class.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> Send every API call, save response to file based on call name</p>
+<ul>
+<li>Find some good sample public parts, assemblies, etc.</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> Script to generate models programmatically using datamodel-codegen</p>
+<ul>
+<li>Save to output folder</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> Plan Pydantic code structure:</p>
+<ul>
+<li>Fetch as many responses as possible</li>
+<li>Generate as many models as possible</li>
+<li>Condense models</li>
+<li>Convert OAS to models?</li>
+</ul>
+</li>
+<li>
+<p><input disabled="" type="checkbox"> Make pydantic typed api calls + responses</p>
+<ul>
+<li>Error for untyped response:
+<ul>
+<li>Call datamodel-codegen on response,</li>
+<li>Save to folder for wayward response data</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="api---db-plan">API -&gt; DB Plan:</h2>
+<ul>
+<li>Pydantic model for &ldquo;All Items&rdquo;</li>
+<li>SQLmodel models for db table items</li>
+<li>Functionality:
+<ul>
+<li>Create/Update to</li>
+<li>Read from</li>
+<li>Delete (later)</li>
+</ul>
+</li>
+</ul>
+<h3 id="general-concept">General concept:</h3>
+<ul>
+<li>For each table:
+<ul>
+<li>If no onshape ID, create in Onshape</li>
+<li>Check all instances with Onshape instance and compare values</li>
+<li>Choose which to update:
+<ul>
+<li>Update Onshape</li>
+<li>Update Local</li>
+</ul>
+</li>
+<li>Save changes in DB</li>
+</ul>
+</li>
+</ul>
+<h3 id="createupdate">Create/Update:</h3>
+<ul>
+<li>
+<p>If item in DB has OnshapeID:</p>
+<ul>
+<li>Update:
+<ul>
+<li>Read item from, compare, update Onshape if different</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>If no ID:</p>
+<ul>
+<li>Create, then read values and update local</li>
+</ul>
+</li>
+<li>
+<p>Get response, parse to Pydantic/SQL  model(s)</p>
+</li>
+<li>
+<p>For each SQLModel object:</p>
+<ul>
+<li>Check if exists in DB</li>
+<li>Create if not</li>
+<li>Compare for changes</li>
+<li>Update if different</li>
+</ul>
+</li>
+</ul>
+<h2 id="cad-automation">CAD Automation:</h2>
+<h2 id="pde-scaffolddatabase">PDE Scaffold/Database:</h2>
+<h3 id="project-structure">Project Structure:</h3>
+<ul>
+<li>
+<p>Each project has a config file that pre-loads settings for interacting with both onshape and the database</p>
+<ul>
+<li>Project name/ID</li>
+<li>DB filter/visidata views</li>
+</ul>
+</li>
+<li>
+<p>Each project generates a new workspace(folder?) in Onshape for all project files from that config file</p>
+</li>
+<li></li>
+</ul>
+<h2 id="quote-automation">Quote Automation:</h2>
+<h2 id="rendering-automation">Rendering Automation</h2>
+<h1 id="resources">Resources:</h1>
+<h1 id="tasks">Tasks:</h1>
+<h1 id="log">Log:</h1>
+
+          </div>
+          <div class="site-project-single-image">
+            
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+  
+  <section class="site-cta" style='background-image: url("https://bullishdesign.co/images/backgrounds/cta-background.jpg");'>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h1 class="site-cta-title">LET’S WORK TOGETHER</h1>
+          <ul class="site-cta-buttons">
+            <li>
+              <a href="https://bullishdesign.co/contact" class="btn btn-secondary">
+                <span class="btn-area">
+                  <span data-text="Submit Query">
+                    Submit Query
+                  </span>
+                </span>
+              </a>
+            </li>
+            <li>
+              <a href="https://bullishdesign.co/portfolio" class="btn btn-primary">
+                <span class="btn-area">
+                  <span data-text="Not Convinced">
+                    Not Convinced
+                  </span>
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+
+
+
         </main><footer class="site-footer">
   <div class="container">
     <div class="row">
