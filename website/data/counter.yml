@@ -3,18 +3,18 @@ heading : "PRODUCT DEVELOPMENT AT THE SPEED OF THOUGHT"
 counter_item: 
   - title: "ECO Reviews"
     before: "Days"
-    operator: &#8594
+    operator: "to" #&#8594
     after: "Hours"
     #number: "Days &#8594 Hours"
 
   - title: "Competitor Research"
     before: "Days"
-    operator: &#8594
+    operator: "to" #&#8594
     after: "Minutes"
 
   - title: "BOM Updates"
     before: "Hours"
-    operator: &#8594
+    operator: "to" #&#8594
     after: "Seconds"
 
 
